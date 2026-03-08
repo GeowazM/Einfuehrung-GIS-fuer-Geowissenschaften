@@ -18,5 +18,5 @@ Dozent
 ~~~~~~~~~
 
 - Mario Blersch, M.Sc.
-  - Doktorand am Institut für Geographie der Pädagogischen Hochschule Heildeberg
+  - Doktorand am Institut für Geographie, GIS-Station der Pädagogischen Hochschule Heildeberg
   - Wissenschaftlicher Mitarbeiter der AG Geoinformatik am Geographischen Institut der Universität Tübingen

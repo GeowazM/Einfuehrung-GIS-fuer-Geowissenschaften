@@ -12,7 +12,7 @@ QGIS ist eine Open Source Software und daher frei und ohne Kosten für
 jeden verfügbar. Ihr könnt QGIS für Windows, Mac und Linux
 Betriebssysteme installieren.
 
-QGIS gibt es in verschiedenen Versionen. Wir benötigen die Long Term Version for Windows (3.34 LTR)
+QGIS gibt es in verschiedenen Versionen. Wir benötigen die Long Term Version for Windows (3.40 LTR)
 
 Hier findet ihr alle Versionen zum Download:
 * https://www.qgis.org/en/site/forusers/download.html
