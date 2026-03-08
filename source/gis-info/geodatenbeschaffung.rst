@@ -9,6 +9,8 @@ Open-Data-Portalen, etc. beziehen.
 Hier findet eine unvollständige Liste, wo ihr Geodaten herunterladen
 könnt.
 
+Darüber hinaus könnt ihr hier vorbei schauen. Hier wurde von der AG geoinformatik der Uni Tübingen eine Übersicht erstellt: https://felixweinschenk.github.io/Website_Datenquellen_Geoinformatik/
+
 +-----------------------------+----------------------------------------+
 | Name                        | Welche Datensätze (u.a.)               |
 +=============================+========================================+

@@ -5,12 +5,12 @@ Dieser Kurs wurde als Einführung in GIS für Studierende der Geowissenschaften 
 
 Die Kursmaterialien sind für alle Interessierten verfügbar. Den Studierenenden stehen darüber hinaus weitere Materialien zu.
 
-Kurse im Wintersemester 2024/25
+Kurse im Wintersemester 2025/26
 ---------------------------
 
 - Blockkurs inkl. Vorlesung & Übung:
-   - Gruppe 1: 03.03. - 07.03.2025 zwischen 09:15 - 16:00 Uhr
-   - Gruppe 2: 10.03. - 14.03.2025 zwischen 09:15 - 16:00 Uhr
+   - Gruppe 1: 09.03. - 13.03.2025 zwischen 09:15 - 16:00 Uhr
+   - Gruppe 2: 16.03. - 20.03.2025 zwischen 09:15 - 16:00 Uhr
 - Prüfungsleistung:
    - Die Prüfungsleistung ist in Form einer Projektarbeit zu absolvieren
 
