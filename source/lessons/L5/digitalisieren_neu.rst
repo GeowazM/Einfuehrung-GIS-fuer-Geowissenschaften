@@ -1,10 +1,6 @@
 Digitalisierung NEU
 ===============
 
-**🔙** `Zurück zur Startseite </content/intro.md>`_
-
-Hallihallo
-
 Digitalisierung ist der Prozess der Umwandlung geografischer Daten aus Karten oder Bildern in eine digitale Form, die üblicherweise als Vektordaten dargestellt wird.
 Während dieses Vorgangs werden räumliche Informationen aus Karten oder Bildern nachgezeichnet, wobei Punkte, Polylinien oder Polygone entstehen. 
 Um Daten für einen neuen Datensatz zu digitalisieren, müssen Sie immer zuerst den Datensatz erstellen, bevor Sie ihn mit digitalisierten Daten füllen können.
@@ -16,9 +12,29 @@ Die Digitalisierungswerkzeugleiste in QGIS
 
 - Die Digitalisierung in QGIS erfolgt primär über die **Digitalisierungswerkzeugleiste**. Um diese zu aktivieren, navigieren Sie zu ``Ansicht`` -> ``Werkzeugleisten`` -> ``Digitalisierungswerkzeugleiste``.
 
-.. figure:: /fig/en_qgis_3.40_activate_digitisation_toolbar_wiki.png
+.. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/Toggle_editingbox.png
    :name: de_qgis_3.40_activate_digitisation_toolbar_wiki
    :width: 550 px
+
+.. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/en_qgis_3.40_activate_digitisation_toolbar_wiki.png
+   :name: de_qgis_3.40_activate_digitisation_toolbar_wiki
+   :width: 550 px
+
+Basemaps hinzufügen (Referenzkarte)
+========
+
+QuickMapServices
+----------------
+
+-  Online-Karten (z.B. eines Tile Map Services) in die Kartenansicht
+   einbetten
+-  QuickMapServices Plugin installieren
+-  eine Basemap auswählen und der Kartenansicht hinzufügen
+-  (evtl. Projektion der Kartenansicht auf *Web Mercator* setzen)
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/MVMzDY2RqQU?si=pdr2BXrySGSdPEmC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Einen neuen Layer erstellen
@@ -47,7 +63,7 @@ Einen neuen Layer erstellen
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/en_qgis_create_layer.mp4"></video>
+   <video width="90%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/en_qgis_create_layer.mp4"></video>
 
 
 Geometrien zu einem Layer hinzufügen
@@ -62,7 +78,7 @@ Punktdaten erstellen
 4. Klicken Sie mit der linken Maustaste auf das Objekt, das Sie digitalisieren möchten.
 5. Sobald Sie klicken, erscheint ein Fenster mit dem Namen ``[Ihr Layer-Name] - Objektattribute``. Hier können Sie die Informationen zu diesem Objekt in die verschiedenen Spalten eintragen, basierend auf der Attributtabelle des Layers.
 
-.. figure:: /fig/point_creation.png 
+.. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/New_point_creation_data.png 
    :width: 700px
    :name: point_creation
    :align: center
@@ -75,7 +91,7 @@ Punktdaten erstellen
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/Creat_point_feature.mp4"></video>
+   <video width="90%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/Creat_point_feature.mp4"></video>
 
 
 Liniendaten erstellen
@@ -96,7 +112,7 @@ Die Methode ähnelt der Digitalisierung eines Punktes (siehe oben). Zuerst müss
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/Creat_line_feature.mp4"></video>
+   <video width="90%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/Creat_line_feature.mp4"></video>
 
 
 Polygondaten erstellen 
@@ -111,7 +127,7 @@ Polygondaten erstellen
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/en_qgis_digitize_add_feature.mp4"></video>
+   <video width="90%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/en_qgis_digitize_add_feature.mp4"></video>
 
 
 Bestehende Geometrien ändern
@@ -124,7 +140,7 @@ Bestehende Geometrien ändern
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/en_qgis_digitize_move_vertices.mp4"></video>
+   <video width="90%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/en_qgis_digitize_move_vertices.mp4"></video>
 
 
 Ring zu bestehendem Polygon-Layer hinzufügen
@@ -132,14 +148,14 @@ Ring zu bestehendem Polygon-Layer hinzufügen
 
 In QGIS erfolgt das Hinzufügen von Ringen zu Polygonen mit der "Erweiterten Digitalisierungswerkzeugleiste". Um die Werkzeugleiste zu aktivieren, navigieren Sie zu ``Ansicht`` -> ``Werkzeugleisten`` -> ``Erweiterte Digitalisierungswerkzeugleiste``.
 
-.. image:: /fig/Toolbox.png
+.. image:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/Toolbox.png
 
 1. Klicken Sie auf |mActionToggleEditing|, um den Bearbeitungsmodus eines Polygon-Layers zu starten.
 2. Klicken Sie auf |mActionAddRing| (z. B. um den Innenhof eines Gebäudes zu kartieren oder - wie im Video gezeigt - einen Kreis zu erstellen, um eine Insel im See zu markieren).
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/en_qgis_digitize_add_ring.mp4"></video>
+   <video width="90%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/en_qgis_digitize_add_ring.mp4"></video>
 
 
 Weitere Ressourcen

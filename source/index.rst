@@ -193,7 +193,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 
     lessons/L5/georeferenzieren
     lessons/L5/exercise-5a_geologie
-    lessons/L5/digitalisieren
     lessons/L5/digitalisieren_neu
     lessons/L5/exercise-5b-iceland
 
