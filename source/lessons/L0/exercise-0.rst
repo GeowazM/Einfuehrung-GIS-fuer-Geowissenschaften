@@ -8,7 +8,7 @@ Exercise 0
 Aufgaben
 --------
 
-1. Macht euch mit dem Thema `Datenorganisation <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/datenorganisation.html>`__
+1. Macht euch mit dem Thema `Datenorganisation <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/geodatenorganisation.html>`__
    vertraut und erstellt eine geeigntete Ordnerstruktur, mit der ihr in den kommenden Tagen und darüber hinaus arbeiten könnt.
 
 2. Informiert euch über verschiedene `Geodatenformate <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Geodatenformate>`__.
