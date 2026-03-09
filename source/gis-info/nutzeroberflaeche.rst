@@ -1,21 +1,6 @@
 QGIS Oberläche
 ===========================
 
--  `Übersicht <#übersicht>`__
--  `Verschieben der Kartenansicht <#verschieben-der-kartenansicht>`__
--  `Zoomen in der Kartenansicht <h#zoomen-in-der-kartenansicht>`__
--  `Eigenschaften von Objekten
-   anzeigen <#eigenschaften-von-objekten-anzeigen>`__
--  `Projektion der Kartenansicht einstellen (Projekt-KBS) <#projektion-der-kartenansicht-einstellen-projekt-kbs>`__
--  `Projekt speichern und öffnen <#projekt-speichern-und-öffnen>`__
--  `Anzeigen ein- und ausblenden <#anzeigen-ein-und-ausblenden>`__
--  `Toolbars verschieben und anordnen <#toolbars-verschieben-und-anordnen>`__
--  `Erweiterungen (Plugins) installieren <#erweiterungen-plugins-installieren>`__
--  `Erweiterungen verwalten <#erweiterungen-verwalten>`__
--  `Experimentelle Erweiterungen erlauben <#experimentelle-erweiterungen-erlauben>`__
--  `Weitere Ressourcen <#weitere-ressourcen>`__
-
-
 Hier gehts zu den (aktuellen) Videos: 
 `QGIS Nutzeroberfläche kennen lernen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_interface_wiki.html>`__
 
@@ -24,7 +9,7 @@ Hier gehts zu den (aktuellen) Videos:
 Übersicht
 ---------
 
-.. figure:: https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/img/GUI_overview.jpg
+.. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/en_QGIS_GUI.png
    :alt: GUI_overview
 
    GUI_overview
@@ -42,7 +27,7 @@ Hier gehts zu den (aktuellen) Videos:
   und Rasterdateien, aber auch allgemeine um z.B. euer Projekt zu
   speichern etc.
 
-.. figure:: https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/img/toolbar_basic.png
+.. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/Digitizing_Toolbar.png
    :alt: toolbar_basic
 
    toolbar_basic
@@ -71,7 +56,7 @@ Verschieben der Kartenansicht
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/qgis_move.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_move.mp4">
 
 .. raw:: html
 
@@ -84,7 +69,7 @@ Zoomen in der Kartenansicht
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/qgis_zoom.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_zoom.mp4">
 
 .. raw:: html
 
@@ -98,7 +83,7 @@ Eigenschaften von Objekten anzeigen
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/qgis_identify.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video//qgis_identify.mp4">
 
 .. raw:: html
 
@@ -109,7 +94,7 @@ Projektion der Kartenansicht einstellen (Projekt-KBS)
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/qgis_map_projection.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_map_projection.mp4">
 
 .. raw:: html
 
@@ -120,7 +105,7 @@ Projekt speichern und öffnen
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/qgis_save_project.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_save_project.mp4">
 
 .. raw:: html
 
@@ -128,29 +113,24 @@ Projekt speichern und öffnen
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/qgis_open_project.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_open_project.mp4">
 
 .. raw:: html
 
    </video>
 
 | **Hinweis:**
-| Die im Projekt verwendeten Layer-Daten werden nicht in der
-  Projekt-Datei gespeichert. Stattdessen enthält die Projekt-Datei
-  lediglich die Dateipfade, wo sich die Layer-Daten zum Zeitpunkt der
-  letzten Abspeicherung des Projekts auf dem PC befunden haben. Sollte
-  der Speicherort dieser Layer-Daten nachträglich verändert werden,
-  kommt es bei erneuter Öffnung des Projektes zur Fehlermeldung “nicht
-  verfügbare Layer behandeln”. Eine gute
-  `Datenorganisation </Allgemeines/Datenorganisation>`__ mit einer
-  festen und durchdachten Ordnerstruktur verhindert solche Probleme.
+| Die im Projekt verwendeten Layer-Daten werden nicht in der Projekt-Datei gespeichert. Stattdessen enthält die Projekt-Datei
+  lediglich die Dateipfade, wo sich die Layer-Daten zum Zeitpunkt der letzten Abspeicherung des Projekts auf dem PC befunden haben. Sollte
+  der Speicherort dieser Layer-Daten nachträglich verändert werden, kommt es bei erneuter Öffnung des Projektes zur Fehlermeldung “nicht
+  verfügbare Layer behandeln”. Eine gute *Datenorganisation /Allgemeines/Datenorganisation* mit einer festen und durchdachten Ordnerstruktur verhindert solche Probleme.
 
 Anzeigen ein- und ausblenden
 ----------------------------
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/Anzeigen_einblenden_ausblenden.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/Anzeigen_einblenden_ausblenden.mp4">
 
 .. raw:: html
 
@@ -168,7 +148,7 @@ das Fenster der Kartenansicht vergrößert werden.
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/Toolbar_verschieben.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_arrange_toolbars.mp4">
 
 .. raw:: html
 

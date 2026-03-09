@@ -4,7 +4,7 @@ Attributtabelle in QGIS
 
 Die Attributtabelle, eine Kernkomponente von Geoinformationssystemen (GIS), **organisiert und präsentiert** detaillierte Informationen über Objekte in einem ausgewählten Layer.  Jede **Zeile** in der Tabelle repräsentiert ein **Objekt**, während die **Spalten** spezifische **Attribute** speichern. Diese Tabelle erleichtert das Suchen, Auswählen, Sortieren, Filtern und Bearbeiten von Objekten.
 
-.. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/Geodata_attribute_table_example.png
+.. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/en_vector_data_overview.png
    :width: 600 px
    :name: attribute_table_wiki
 

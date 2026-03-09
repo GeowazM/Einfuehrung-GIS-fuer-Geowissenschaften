@@ -144,7 +144,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     gis-info/geodatenbeschaffung
     gis-info/hinweise
     gis-info/nutzeroberflaeche
-    gis-info/einstellungen
     gis-info/hintergrundkarten
     gis-info/attributtabelle
     gis-info/symbolisierung
