@@ -27,7 +27,7 @@ QuickMapServices
 
 .. raw:: html
 
-   <video width="100%" controls src="https://youtu.be/MVMzDY2RqQU?si=zuYTb6Rqc1R2aeWo">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/MVMzDY2RqQU?si=pdr2BXrySGSdPEmC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 .. raw:: html
 
@@ -48,7 +48,7 @@ Einen neuen Layer erstellen
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/blob/main/fig/Creat_point_feature.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/blob/main/fig/Create_new_vector_data.mp4">
 
 .. raw:: html
 
