@@ -150,7 +150,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     gis-info/symbolisierung
     gis-info/erweiterungen
 
-
 .. toctree::
     :maxdepth: 2
     :caption: Erste Schritte in QGIS
