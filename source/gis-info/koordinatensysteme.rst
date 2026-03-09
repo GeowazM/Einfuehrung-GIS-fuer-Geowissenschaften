@@ -204,28 +204,17 @@ PROJ
 Projektkoordinatensystem
 ------------------------
 
-Ändern des Projektkoordinatensystem
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-   <video width="90%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/changeProjectProjection.mp4">
-
-.. raw:: html
-
-   </video>
-
 Layerkoordinatensystem
 ----------------------
 
-Welches Koordinatensystem ist im Layer definiert?
+Welches Koordinatensystem ist im Layer definiert & wie ändere ich es?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Über die Layer Metadaten können sie dessen Koordinatensystem überprüfen.
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/kbs-metadaten.mp4">
+   <video width="100%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/qgis_change_project_CRS.mp4">
 
 .. raw:: html
 
@@ -242,14 +231,6 @@ Liegen die Daten im Vektorformat vor (Punkte, Linien, Polygone), dann kann man i
 Noch einfacher geht es über ``Rechtsklick auf Layer`` > ``Export`` > ``Save Feature as...``.
 
 Die Daten werden mit diesem Werkzeug umprojiziert und es wird ein neues Layer mit den veränderten Daten ausgegeben.
-
-.. raw:: html
-
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/kbs-vektor.mp4">
-
-.. raw:: html
-
-   </video>
 
 Rasterdaten
 ^^^^^^^^^^^

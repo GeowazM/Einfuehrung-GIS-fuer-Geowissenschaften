@@ -1,4 +1,4 @@
-Digitalisierung NEU
+Digitalisierung
 ===============
 
 Digitalisierung ist der Prozess der Umwandlung geografischer Daten aus Karten oder Bildern in eine digitale Form, die üblicherweise als Vektordaten dargestellt wird.
@@ -8,7 +8,7 @@ Um Daten für einen neuen Datensatz zu digitalisieren, müssen Sie immer zuerst 
 Die Digitalisierungswerkzeugleiste in QGIS
 ==========================================
 
-.. image:: /fig/Digitizing_Toolbar.png
+.. image:: https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/Digitizing_Toolbar.png
 
 - Die Digitalisierung in QGIS erfolgt primär über die **Digitalisierungswerkzeugleiste**. Um diese zu aktivieren, navigieren Sie zu ``Ansicht`` -> ``Werkzeugleisten`` -> ``Digitalisierungswerkzeugleiste``.
 
@@ -20,7 +20,8 @@ Die Digitalisierungswerkzeugleiste in QGIS
    :name: de_qgis_3.40_activate_digitisation_toolbar_wiki
    :width: 550 px
 
-Basemaps hinzufügen (Referenzkarte)
+
+Basemaps hinzufügen 
 ========
 
 QuickMapServices
@@ -73,8 +74,8 @@ Punktdaten erstellen
 --------------------
 
 1. Wählen Sie im Layer-Bedienfeld den Punkt-Layer aus, dem Sie Daten hinzufügen möchten.
-2. Gehen Sie zur Digitalisierungswerkzeugleiste und klicken Sie auf |mActionToggleEditing|. Nun befindet sich der Layer im Bearbeitungsmodus.
-3. Klicken Sie auf |mActionCapturePoint|.
+2. Gehen Sie zur Digitalisierungswerkzeugleiste und klicken Sie auf **den gelben Stift**. Nun befindet sich der Layer im Bearbeitungsmodus.
+3. Klicken Sie auf die **blauen Punkte**.
 4. Klicken Sie mit der linken Maustaste auf das Objekt, das Sie digitalisieren möchten.
 5. Sobald Sie klicken, erscheint ein Fenster mit dem Namen ``[Ihr Layer-Name] - Objektattribute``. Hier können Sie die Informationen zu diesem Objekt in die verschiedenen Spalten eintragen, basierend auf der Attributtabelle des Layers.
 
