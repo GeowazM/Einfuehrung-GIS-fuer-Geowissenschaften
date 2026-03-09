@@ -33,25 +33,11 @@ QuickMapServices
 
    </video>
 
-OSM Place Search
-----------------
-
--  Navigation auf zuvor eingebettete Basemaps erleichtern
--  OSM place search Plugin installieren
--  Zielort eingeben und aus Liste passenden Eintrag auswählen
-
-.. raw:: html
-
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/75709196b2ee8a45bcca95c4b1619fca/OSM_Place_Search.mp4">
-
-.. raw:: html
-
-   </video>
 
 Digitalisierung starten
 ===============
 
-Ein neues Layer erstellen
+Einen neuen Layer erstellen
 -------------------------
 
 -  Dateinamen angeben
