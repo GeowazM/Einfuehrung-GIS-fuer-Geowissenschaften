@@ -46,7 +46,7 @@ Verschieben der Kartenansicht
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_move.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_move.mp4">
 
 .. raw:: html
 
@@ -59,7 +59,7 @@ Zoomen in der Kartenansicht
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_zoom.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_zoom.mp4">
 
 .. raw:: html
 
@@ -73,14 +73,14 @@ Eigenschaften von Objekten anzeigen
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video//qgis_identify.mp4"></video>
+   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_identify.mp4"></video>
 
 Projektion der Kartenansicht einstellen (Projekt-KBS)
 -----------------------------------------------------
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_map_projection.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_map_projection.mp4">
 
 .. raw:: html
 
@@ -91,7 +91,7 @@ Projekt speichern und öffnen
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_save_project.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig//qgis_save_project.mp4">
 
 .. raw:: html
 
@@ -99,7 +99,7 @@ Projekt speichern und öffnen
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_open_project.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_open_project.mp4">
 
 .. raw:: html
 
@@ -116,7 +116,7 @@ Anzeigen ein- und ausblenden
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/Anzeigen_einblenden_ausblenden.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/Anzeigen_einblenden_ausblenden.mp4">
 
 .. raw:: html
 
@@ -131,75 +131,11 @@ Durch die Komprimierung aller Toolbars in wenige Zeilen kann zudem noch das Fens
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_arrange_toolbars.mp4">
+   <video width="100%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_arrange_toolbars.mp4">
 
 .. raw:: html
 
    </video>
-
-Erweiterungen (Plugins) installieren
-------------------------------------
-
-Für QGIS gibt es zahlreiche Erweiterungen, auch *Plugins* genannt, die
-erweiterte Funktionalitäten zur Verfügung stellen.
-
-.. raw:: html
-
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/qgis_plugins.mp4">
-
-.. raw:: html
-
-   </video>
-
-| **Hinweis:**
-| Solltet ihr eine spezifische Erweiterung nicht finden, überprüft eure
-  Groß-/Kleinschreibung und die korrekte Verwendung von Leerzeichen.
-  Sollte eine Erweiterung weiterhin nicht auffindbar sein, müssen
-  eventuell die experimentellen Erweiterungen in den Optionen erlaubt
-  werden (siehe unten).
-
-Erweiterungen verwalten
------------------------
-
-.. raw:: html
-
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/Erweiterungen_verwalten.mp4">
-
-.. raw:: html
-
-   </video>
-
-Experimentelle Erweiterungen erlauben
--------------------------------------
-
-| Experimentelle Erweiterungen sind entweder noch in der Entwicklung,
-  oder es handelt sich um veraltete Erweiterungen, die nicht mehr für
-  die neueren Versionen von QGIS weiter optimiert/angepasst werden.
-  Trotzdem kann die Verwendung experimenteller Erweiterungen sinnvoll
-  sein:
-| \* Spezifische Funktionen werden in keiner anderen Erweiterung
-  unterstützt.
-| \* Alternative, wenn es bei einer anderen Erweiterung zu Problemen
-  kommt.
-| \* Ein Tutorial greift auf eine bestimmte Erweiterung zurück.
-
-.. raw:: html
-
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/Experimentelle_Erweiterungen.mp4">
-
-.. raw:: html
-
-   </video>
-
-| **Hinweis:**
-| Aufgrund der oftmals fehlenden Optimierung für die verwendete
-  QGIS-Version, kann es bei experimentellen Erweiterungen vermehrt zu
-  Fehlermeldungen oder anderen Problemen bis hin zum Absturz von QGIS
-  kommen. Experimentelle Erweiterungen sollten daher sicherheitshalber
-  nur für die Verwendung aktiviert und anschließend wieder deaktiviert
-  werden. Vergewissert euch zusätzlich, dass der aktuelle
-  Arbeitsfortschritt gespeichert ist, um einem Datenverlust beim Absturz
-  von QGIS zu entgehen.
 
 Weitere Ressourcen
 ==================
