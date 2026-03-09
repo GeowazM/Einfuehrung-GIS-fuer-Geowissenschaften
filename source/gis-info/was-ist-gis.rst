@@ -24,8 +24,6 @@ Was ist GIS?
 GIS in den Geowissenschaften
 ===================
 
-https://portal.onegeology.org/OnegeologyGlobal/
-
 .. hint::
 
     `OneGeology.org <https://onegeology.org/>`_

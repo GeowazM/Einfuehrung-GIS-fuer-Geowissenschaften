@@ -10,7 +10,7 @@ Hier gehts zu den (aktuellen) Videos:
 ---------
 
 .. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/en_QGIS_GUI.png
-   :alt: GUI_overview
+   :alt: Übersicht GUI. © Copyright HeiGIT gGmbH
 
    Übersicht GUI. © Copyright HeiGIT gGmbH
 
@@ -28,7 +28,7 @@ Hier gehts zu den (aktuellen) Videos:
   speichern etc.
 
 .. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/Digitizing_Toolbar.png
-   :alt: toolbar_basic
+   :alt: Toolbar- Beispiel Digitalisierung. © Copyright HeiGIT gGmbH
 
    Toolbar- Beispiel Digitalisierung. © Copyright HeiGIT gGmbH.
 
