@@ -12,7 +12,7 @@ Hier gehts zu den (aktuellen) Videos:
 .. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/en_QGIS_GUI.png
    :alt: GUI_overview
 
-   GUI_overview
+   Übersicht GUI. © Copyright HeiGIT gGmbH
 
 | **1) Layers List / Browser Panel**
 | Die Layer-Liste zeigt alle Layer/Dateien an, die im Projekt geladen
@@ -30,25 +30,19 @@ Hier gehts zu den (aktuellen) Videos:
 .. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/Digitizing_Toolbar.png
    :alt: toolbar_basic
 
-   toolbar_basic
+   Toolbar- Beispiel Digitalisierung. © Copyright HeiGIT gGmbH.
 
 | **3) Kartenansicht**
-| Die Kartenansicht ist der zentrale Bestandteil jedes GIS Programms.
-  Hier werden die Geodaten angezeigt. Die Kartenansicht hat eine
-  Projektion, welche nicht immer mit der Projektion der Layer
-  übereinstimmen muss.
+| Die Kartenansicht ist der zentrale Bestandteil jedes GIS Programms. Hier werden die Geodaten angezeigt. Die Kartenansicht hat eine
+  Projektion, welche nicht immer mit der Projektion der Layer übereinstimmen muss.
 
 | **4) Status-Leiste**
-| In der Status-Leiste findet ihr zentrale Informationen zur aktuellen
-  Kartenansicht. Hier stellt ihr die Projektion der Kartenansicht ein
-  und den Maßstab. Ihr könnt die Koordinaten des Mauszeigers ablesen und
-  so schnell die Koordinaten von Punkten auf der Karte herausfinden. Ihr
-  könnt eure Kartenansicht drehen, z.B. wenn ihr eine nach Süden
-  ausgerichtete Karte erstellen möchtet.
+| In der Status-Leiste findet ihr zentrale Informationen zur aktuellen Kartenansicht. Hier stellt ihr die Projektion der Kartenansicht ein
+  und den Maßstab. Ihr könnt die Koordinaten des Mauszeigers ablesen und so schnell die Koordinaten von Punkten auf der Karte herausfinden. Ihr
+  könnt eure Kartenansicht drehen, z.B. wenn ihr eine nach Süden ausgerichtete Karte erstellen möchtet.
 
 | **5) Layer Styling Panel**
-| Standardmäßig nicht angezeigt (s.\ `Anzeigen ein- und
-  ausblenden <GUI#anzeigen-ein-und-ausblenden>`__). Ein einfacher Weg um
+| Standardmäßig nicht angezeigt (s.\ `Anzeigen ein- und ausblenden <GUI#anzeigen-ein-und-ausblenden>`__). Ein einfacher Weg um
   die Darstellung von Layern zu modifizieren.
 
 Verschieben der Kartenansicht
@@ -56,7 +50,7 @@ Verschieben der Kartenansicht
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_move.mp4">
+   <video width="90%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_move.mp4">
 
 .. raw:: html
 
@@ -69,7 +63,7 @@ Zoomen in der Kartenansicht
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_zoom.mp4">
+   <video width="90%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_zoom.mp4">
 
 .. raw:: html
 
@@ -139,12 +133,9 @@ Anzeigen ein- und ausblenden
 Toolbars verschieben und anordnen
 ---------------------------------
 
-An jeder Toolbar gibt es ein Feld aus zwei gepunkteten Linien. Wenn man
-mit dem Mauszeiger hinüberfährt bis ein Pfeilkreuz erscheint und dann
-die linke Maustaste gedrückt hält, kann man die Toolbar verschieben.
-Dies ermöglicht eine individualisierte Anordnung der eigenen Werkzeuge.
-Durch die Komprimierung aller Toolbars in wenige Zeilen kann zudem noch
-das Fenster der Kartenansicht vergrößert werden.
+An jeder Toolbar gibt es ein Feld aus zwei gepunkteten Linien. Wenn man mit dem Mauszeiger hinüberfährt bis ein Pfeilkreuz erscheint und dann
+die linke Maustaste gedrückt hält, kann man die Toolbar verschieben. Dies ermöglicht eine individualisierte Anordnung der eigenen Werkzeuge.
+Durch die Komprimierung aller Toolbars in wenige Zeilen kann zudem noch das Fenster der Kartenansicht vergrößert werden.
 
 .. raw:: html
 
