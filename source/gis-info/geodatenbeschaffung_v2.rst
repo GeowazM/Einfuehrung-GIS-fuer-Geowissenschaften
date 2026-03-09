@@ -1,18 +1,5 @@
-Geodatenbeschaffung 2
+Geodatenbeschaffung 
 ===================
-
-.. _data_sources_de:
-
-{grid} auto
-::::
-:::{grid-item-card}
-:class-card: sd-text-center sd-rounded-circle
-:link: https://giscience.github.io/gis-training-resource-center/content/intro.html 
-{octicon}`home-fill;1.5em;sd-text-danger`
-:::
-::::
-
-# Datenquellen
 
 Um die passenden Daten für Ihr Projekt zu finden, können Sie Online-Plattformen für den Datenaustausch nutzen. Einige der wichtigsten Portale sind unten aufgeführt.
 

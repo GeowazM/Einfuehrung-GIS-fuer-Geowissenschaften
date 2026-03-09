@@ -1,4 +1,4 @@
-Geodatenbeschaffung
+Geodatenbeschaffung - Ergänzung
 ===================
 
 Für die Analysen im Tutorium nutzen wir eine vielzahl unterschiedlicher
