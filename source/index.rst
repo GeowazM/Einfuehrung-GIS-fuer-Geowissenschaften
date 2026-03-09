@@ -141,7 +141,7 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     gis-info/was-ist-gis
     gis-info/was-ist-gis_all
     gis-info/koordinatensysteme
-    gis-info/geodatenorganisation
+    gis-info/geodatenmanagment
     gis-info/geodatenbeschaffung
     gis-info/geodatenbeschaffung_v2
     gis-info/hinweise

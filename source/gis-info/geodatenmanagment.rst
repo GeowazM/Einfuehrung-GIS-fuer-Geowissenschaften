@@ -117,7 +117,7 @@ Die Standard-Ordnerstruktur hat zwei wesentliche Vorteile:
 
 Die Vorlage für die Ordnerstruktur kann `hier <https://github.com/GIScience/gis-training-resource-center/blob/main/fig/GIS_Project_folder_template.zip>`_ heruntergeladen werden.
 
-.. figure:: /fig/Standard_project_folder_structure.drawio.svg
+.. figure:: https://github.com/GeowazM/gis-training-resource-heigit/blob/main/fig/Standard_project_folder_structure.drawio.svg
    :width: 800px
    :align: center
    :name: Standard_project_folder_structure_wikki
