@@ -15,17 +15,13 @@ Hier gehts zu den (aktuellen) Videos:
    Übersicht GUI. © Copyright HeiGIT gGmbH
 
 | **1) Layers List / Browser Panel**
-| Die Layer-Liste zeigt alle Layer/Dateien an, die im Projekt geladen
-  sind. Man kann Layer einblenden/ausblenden und weitere Eigenschaften
-  einstellen. Falls aus Versehen deaktiviert, über View-> Panels-> Layer
-  wieder herstellen (s. `Anzeigen ein- und
-  ausblenden <GUI#anzeigen-ein-und-ausblenden>`__).
+| Die Layer-Liste zeigt alle Layer/Dateien an, die im Projekt geladen sind. Man kann Layer einblenden/ausblenden und weitere Eigenschaften
+  einstellen. Falls aus Versehen deaktiviert, über View-> Panels-> Layer wieder herstellen (siehe. 'Anzeigen ein- und
+  ausblenden').
 
 | **2) Toolbars**
-| Toolsbars sind *Shortcuts* um besonders häufig genutze Befehle
-  auszuführen. So gibt es beispielsweise spezielle Toolbars für Vektor
-  und Rasterdateien, aber auch allgemeine um z.B. euer Projekt zu
-  speichern etc.
+| Toolsbars sind *Shortcuts* um besonders häufig genutze Befehle auszuführen. So gibt es beispielsweise spezielle Toolbars für Vektor
+  und Rasterdateien, aber auch allgemeine um z.B. euer Projekt zu speichern etc.
 
 .. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/Digitizing_Toolbar.png
    :alt: Toolbar- Beispiel Digitalisierung. © Copyright HeiGIT gGmbH
@@ -77,18 +73,14 @@ Eigenschaften von Objekten anzeigen
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video//qgis_identify.mp4">
-
-.. raw:: html
-
-   </video>
+   <video width="90%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video//qgis_identify.mp4"></video>
 
 Projektion der Kartenansicht einstellen (Projekt-KBS)
 -----------------------------------------------------
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_map_projection.mp4">
+   <video width="90%" controls src="https://github.com/GeowazM/Einfuehrung-GIS-fuer-Geowissenschaften/tree/master/source/img/video/qgis_map_projection.mp4">
 
 .. raw:: html
 
