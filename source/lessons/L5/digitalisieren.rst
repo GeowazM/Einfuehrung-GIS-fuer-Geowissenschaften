@@ -27,7 +27,7 @@ QuickMapServices
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/f60155be829c234707f0f4bf5804466c/QuickMapServices.mp4">
+   <video width="100%" controls src="https://youtu.be/MVMzDY2RqQU?si=zuYTb6Rqc1R2aeWo">
 
 .. raw:: html
 
