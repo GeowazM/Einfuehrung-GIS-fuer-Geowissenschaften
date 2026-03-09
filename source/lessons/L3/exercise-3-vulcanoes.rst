@@ -11,10 +11,10 @@ Exercise 3
 .. admonition:: Hilfe
 
    **Support findest du im Wiki**
-      *  `Projektionen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Projektionen>`__
-      *  `Nicht-Räumliche Abfragen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Nicht-Räumliche-Abfragen>`__
-      *  `Räumliche Abfragen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Räumliche-Abfragen>`__
-      *  `Geometrieoperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Geometrieoperationen>`__
+      *  `Projektionen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_projections_wiki.html>`__
+      *  `Nicht-Räumliche Abfragen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_non_spatial_queries_wiki.html>`__
+      *  `Räumliche Abfragen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_spatial_queries_wiki.html>`__
+      *  `Geometrieoperationen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_geoprocessing_wiki.html>`__
 
 .. seealso::
 

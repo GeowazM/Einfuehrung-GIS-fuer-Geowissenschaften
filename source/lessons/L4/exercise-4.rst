@@ -4,10 +4,9 @@ Exercise 4
 .. hint::
 
    Ziel der Übung
-      *  `Geometriefunktionen vertiefen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Geometrieoperationen>`__
-      *  `Vektordaten räumlich verschneiden <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Räumliche-Verschneidungen>`__
-      *  `Räumliche Joins durchführen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Räumliche-Joins>`__
-      *  `Tabellenfunktionen nutzen und einfache Statistiken erstellen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Tabellenfunktionen>`__
+      *  `Vektordaten räumlich verschneiden <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_geoprocessing_wiki.html>`__
+      *  `Räumliche Joins durchführen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_spatial_queries_wiki.html>`__
+      *  `Tabellenfunktionen nutzen und einfache Statistiken erstellen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_non_spatial_queries_wiki.html>`__
 
 .. seealso::
 

@@ -10,7 +10,7 @@ Manuelle Auswahl
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_select_by_attribute_table.mp4">
+   <video width="100%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/en_qgis_select_features_by_click_wiki">
 
 .. raw:: html
 
