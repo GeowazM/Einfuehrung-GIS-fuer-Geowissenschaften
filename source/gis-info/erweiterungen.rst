@@ -1,5 +1,5 @@
 =======
-Plugins
+Erweiterungen / Plugins
 =======
 
 Es gibt zahlreiche Erweiterungen für QGIS, auch Plugins genannt, die erweiterte Funktionalitäten bieten. Wenn Sie eine bestimmte Aufgabe haben und QGIS nicht über die passende Funktionalität verfügt, sollten Sie in der Regel nach einem Plugin suchen. Sie können danach googeln oder im Plugin-Fenster suchen. 
@@ -16,7 +16,7 @@ Um ein Plugin zu installieren: ``Erweiterungen`` -> ``Erweiterungen verwalten un
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/qgis_plugins.mp4"></video>
+   <video width="100%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_plugins.mp4"></video>
 
 .. tip::
    Wenn Sie eine bestimmte Erweiterung nicht finden können, überprüfen Sie die Groß-/Kleinschreibung und die korrekte Verwendung von Leerzeichen. Wenn Sie eine Erweiterung immer noch nicht finden können, müssen Sie möglicherweise die experimentellen Erweiterungen in den Optionen zulassen (siehe unten).
@@ -28,7 +28,7 @@ Wenn Sie installierte Plugins derzeit nicht verwenden, kann es nützlich sein, d
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/Manage_plugins.mp4"></video>
+   <video width="100%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/Manage_plugins.mp4"></video>
 
 Experimentelle Erweiterungen zulassen
 =====================================
@@ -41,7 +41,7 @@ Experimentelle Erweiterungen befinden sich entweder noch in der Entwicklung oder
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/Experimentel_plugins.mp4"></video>
+   <video width="100%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/Experimentel_plugins.mp4"></video>
 
 .. tip::
    Aufgrund der oft fehlenden Optimierung für die verwendete QGIS-Version können experimentelle Erweiterungen vermehrt Fehlermeldungen oder andere Probleme bis hin zum Absturz von QGIS verursachen. Experimentelle Erweiterungen sollten daher nur für die Nutzung aktiviert und danach wieder deaktiviert werden. Stellen Sie außerdem sicher, dass der aktuelle Arbeitsfortschritt gespeichert ist, um Datenverlust bei einem Absturz von QGIS zu vermeiden.

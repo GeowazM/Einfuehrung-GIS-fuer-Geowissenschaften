@@ -25,7 +25,7 @@ Es gibt zwei Möglichkeiten, OpenStreetMap als Hintergrundkarte hinzuzufügen.
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/Add_basemap_OSM.mp4"></video>
+   <video width="100%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/blob/main/fig/Add_basemap_OSM.mp4"></video>
 
 Google und Bing Hintergrundkarten hinzufügen
 --------------------------------------------

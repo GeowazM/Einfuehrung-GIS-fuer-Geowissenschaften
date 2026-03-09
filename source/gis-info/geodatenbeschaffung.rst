@@ -22,7 +22,7 @@ Um die passenden Daten für Ihr Projekt zu finden, können Sie Online-Plattforme
 
 **Datenlizenz:** Welche Art von Lizenz haben die Daten? Wie dürfen Sie diese nutzen oder teilen und wie muss die Quelle zitiert werden? Vergewissern Sie sich, dass Sie die Lizenzbestimmungen einhalten, um rechtliche Schwierigkeiten zu vermeiden.
 
-.. figure:: https://github.com/GeowazM/gis-training-resource-heigit/blob/main/fig/en_data_sources_examples_cartong.png
+.. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/en_data_sources_examples_cartong.png
    :name: de_data_sources_examples_cartong
    :width: 600 px
 

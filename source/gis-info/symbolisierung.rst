@@ -1,8 +1,6 @@
 ==============================
-Einzelsymbol-Klassifizierung
+Einfache Symbolisierung
 ==============================
-
-**🔙** `Zurück zur Startseite </content/intro.md>`_
 
 - Standardmäßig visualisiert QGIS alle Layer in der Einstellung ``Einzelsymbol``.
 - Das bedeutet, dass alle Objekte eines Layers gleich visualisiert werden.
@@ -19,7 +17,7 @@ Einzelsymbol-Klassifizierung
 - Klicken Sie auf ``Anwenden``, um Ihre Anpassungen wirksam zu machen.
 - Klicken Sie auf ``OK``, um das Fenster zu schließen.
 
-.. figure:: /fig/Single_symbol_classify.png
+.. figure:: https://raw.githubusercontent.com/GeowazM/gis-training-resource-heigit/refs/heads/main/fig/Single_symbol_classify.png
    :width: 900px
    :name: Single_symbol_classify_wiki
    :align: center
