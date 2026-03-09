@@ -139,6 +139,7 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :caption: Wissenswertes
 
     gis-info/was-ist-gis
+    gis-info/was-ist-gis_all
     gis-info/koordinatensysteme
     gis-info/geodatenorganisation
     gis-info/geodatenbeschaffung
