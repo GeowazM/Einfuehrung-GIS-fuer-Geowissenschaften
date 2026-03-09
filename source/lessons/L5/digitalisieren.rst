@@ -62,7 +62,7 @@ Ein neues Layer erstellen
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_create_layer.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/blob/main/fig/Creat_point_feature.mp4">
 
 .. raw:: html
 
