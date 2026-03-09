@@ -1,12 +1,9 @@
-Digitalisierung 2
-========
-.. _digitisation_de:
-
-===============
-Digitalisierung
+Digitalisierung NEU
 ===============
 
 **🔙** `Zurück zur Startseite </content/intro.md>`_
+
+Hallihallo
 
 Digitalisierung ist der Prozess der Umwandlung geografischer Daten aus Karten oder Bildern in eine digitale Form, die üblicherweise als Vektordaten dargestellt wird.
 Während dieses Vorgangs werden räumliche Informationen aus Karten oder Bildern nachgezeichnet, wobei Punkte, Polylinien oder Polygone entstehen. 
