@@ -41,7 +41,7 @@ und Projektdateien in separten Ordnern *daten/* und *projekte/* abzulegen.
 
 Somit würde der Teil des Dateisystems für die Übung z.B. wie folgt aussehen:
 
-.. figure:: https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/img/datenorgaTree.png
+.. figure:: https://giscience.github.io/gis-training-resource-center/_images/standard_folder_structure_new_2025.drawio.png
    :alt: Screenshot_from_2021-08-13_08-43-20
 
    Screenshot_from_2021-08-13_08-43-20
