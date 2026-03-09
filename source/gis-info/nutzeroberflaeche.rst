@@ -15,6 +15,12 @@ Nutzeroberläche kennen lernen
 -  `Experimentelle Erweiterungen erlauben <#experimentelle-erweiterungen-erlauben>`__
 -  `Weitere Ressourcen <#weitere-ressourcen>`__
 
+
+Hier gehts zu den (aktuellen) Videos: 
+`QGIS Nutzeroberfläche kennen lernen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_interface_wiki.html>`__
+
+
+
 Übersicht
 ---------
 
