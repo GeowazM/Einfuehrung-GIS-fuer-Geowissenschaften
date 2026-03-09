@@ -2,8 +2,19 @@ Digitalisierung
 ========
 
 
+Hier funktionieren die Videos!!!!
+========
+
+https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_digitisation_wiki.html
+
+
+
+
 Basemaps hinzufügen (Referenzkarte)
 ========
+
+
+
 
 QuickMapServices
 ----------------
