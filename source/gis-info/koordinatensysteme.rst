@@ -209,7 +209,7 @@ Projektkoordinatensystem
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/changeProjectProjection.mp4">
+   <video width="90%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/changeProjectProjection.mp4">
 
 .. raw:: html
 
@@ -267,10 +267,10 @@ Um ein passendes Koordinatensystem für einen bestimmten Anwendungszweck und Aus
 Auf dieser Webseite könnt ihr den Ausschnitt in dem sich eure Karte befindet auswählen und unter *Distortion Property* festlegen ob die
 Projektion flächentreu (equal-area), winkeltreu (conformal), längentreu (equidistant) oder ein Kompromiss aus allen drei (compromise) sein soll.
 
-.. figure:: https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/img/projwiz-distortion.png
-   :alt: projwiz-distortion.png
+.. figure:: https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/users%2FQWDzir4jNuXyuHcNO0mDzJgvO4R2%2FXthqFNIO21Ba4n8etfuC%2F54ee29f1-aef8-4f75-81e2-ac4e92632cad?alt=media&token=ba3749f2-ffdc-4f8e-8b22-9dffcdb9072f
+   :alt: Gnomonic Projections. Source: mapscaping.com
 
-   projwiz-distortion.png
+   Gnomonic Projections. Source: mapscaping.com
 
 Die Webseite gibt euch dann Vorschläge, welches Koordinatensystem euren Anforderungen am besten entspricht und bietet sie sowohl im PROJ und WKT Format an.
 

@@ -46,7 +46,7 @@ Verschieben der Kartenansicht
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_move.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/qgis_move.mp4">
 
 .. raw:: html
 
@@ -59,7 +59,7 @@ Zoomen in der Kartenansicht
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_zoom.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/qgis_zoom.mp4">
 
 .. raw:: html
 
@@ -73,14 +73,14 @@ Eigenschaften von Objekten anzeigen
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_identify.mp4"></video>
+   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/qgis_identify.mp4"></video>
 
 Projektion der Kartenansicht einstellen (Projekt-KBS)
 -----------------------------------------------------
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_map_projection.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/qgis_map_projection.mp4">
 
 .. raw:: html
 
@@ -116,7 +116,7 @@ Anzeigen ein- und ausblenden
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/Anzeigen_einblenden_ausblenden.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/Anzeigen_einblenden_ausblenden.mp4">
 
 .. raw:: html
 
@@ -131,7 +131,7 @@ Durch die Komprimierung aller Toolbars in wenige Zeilen kann zudem noch das Fens
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_arrange_toolbars.mp4">
+   <video width="100%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/qgis_arrange_toolbars.mp4">
 
 .. raw:: html
 

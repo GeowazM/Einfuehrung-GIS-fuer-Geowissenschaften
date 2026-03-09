@@ -52,8 +52,6 @@ Somit würde der Teil des Dateisystems für die Übung z.B. wie folgt aussehen:
 Projekte
 --------------
 
-**🔙** `Zurück zur Startseite </content/intro.md>`_
-
 Dieser Wiki-Artikel behandelt die bewährten Methoden für die Erstellung und Verwaltung von Geodaten und QGIS-Projekten.
 
 Schritt-für-Schritt: Ein neues QGIS-Projekt von Grund auf einrichten
