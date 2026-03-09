@@ -9,9 +9,10 @@ Exercise 8
 
 .. hint::
 
-      -  `Räumliche Interpolationsverfahren <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Räumliche-Interpolationsverfahren>`__
-      -  `lokale Rasterfunktionen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Konvertierung>`__
-
+      -  `Räumliche Interpolationsverfahren <https://giscience.github.io/gis-training-resource-center/content/Module_6/en_qgis_data_analysis_theory.html#interpolation>`__
+      -  `Globale Rasteroperationen <https://giscience.github.io/gis-training-resource-center/content/Module_8/en_qgis_raster_operations.html>`__
+      -  `Basic Rasteroperationen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_raster_basic_wiki.html>`__
+      
 .. seealso::
 
    Daten

@@ -4,6 +4,9 @@ Exercise 5 a
 .. admonition:: Start your assignment
 
     **Du kannst zwischen verschiedenen Karten, die du georeferenzieren sollst, auswählen**.
+    
+    - `Georeferenzieren <https://giscience.github.io/gis-training-resource-center/content/Module_3/en_qgis_georeferencing.html>`__
+
 
 .. hint::
    

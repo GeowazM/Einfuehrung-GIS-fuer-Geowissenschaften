@@ -35,15 +35,6 @@ Objekte in der Attributtabelle manuell auswählen
 
    <video width="90%" controls muted src="https://github.com/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_attribute_table_select.mp4"></video>
 
-Objektauswahl aufheben
-----------------------
-
-* **Auswahl aufheben:** Klicken Sie auf |mActionDeselectActiveLayer| oder verwenden Sie :kbd:`Strg` + :kbd:`Umschalt` + :kbd:`A`.
-
-.. raw:: html
-
-   <video width="90%" controls muted src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_attribute_table_unselect.mp4"></video>
-
 Auf ein bestimmtes Objekt zoomen
 --------------------------------
 

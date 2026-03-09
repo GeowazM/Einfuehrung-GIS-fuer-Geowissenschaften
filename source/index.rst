@@ -168,7 +168,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Eine Karte erstellen
 
-    lessons/L2/overview
     lessons/L2/exercise-2
     lessons/L2/exercise-2_additional
 
@@ -176,7 +175,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Mit Attributen arbeiten
 
-    lessons/L3/overview
     lessons/L3/exercise-3-vulcanoes
     lessons/L3/exercise-3-vulcanoes_additional
 

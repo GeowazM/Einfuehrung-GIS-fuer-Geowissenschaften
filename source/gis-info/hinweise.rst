@@ -34,55 +34,42 @@ gespeichert werden.
 Umlaute, Sonderzeichen, Leerzeichen in Dateipfaden
 --------------------------------------------------
 
-| Ein Dateipfad gibt den Ort auf einem Speichermedium an, an dem eine
-  bestimmte Datei gespeichert ist. Sie werden im Rahmen jeder Task von
-  eurem GIS Programm verwendet, um auf die Daten zugreifen zu können.
-  Sollte QGIS den Dateipfad nicht lesen können, kann es auch mit den
-  dort hinterlegten Dateien nicht interagieren und der Task schlägt
-  fehl. Sollten in eurem Dateipfad Umlaute (ä,ö,ü), Sonderzeichen (!,?,
-  ., etc.) oder Leerzeichen enthalten sein, kann dies zu Problemen bei
-  der Bearbeitung dieser Dateien durch QGIS führen. Es ist daher zu
-  empfehlen diese Zeichen in euren Dateipfaden zu vermeiden (Umlaute
-  ausschreiben, Leerzeichen durch \_ ersetzen).
-| Folgende Dateipfade sind im Rahmen einer Taskbearbeitung durch QGIS
-  entscheidend:
+| Ein Dateipfad gibt den Ort auf einem Speichermedium an, an dem eine bestimmte Datei gespeichert ist. Sie werden im Rahmen jeder Task von
+  eurem GIS Programm verwendet, um auf die Daten zugreifen zu können. Sollte QGIS den Dateipfad nicht lesen können, kann es auch mit den
+  dort hinterlegten Dateien nicht interagieren und der Task schlägt fehl. Sollten in eurem Dateipfad Umlaute (ä,ö,ü), Sonderzeichen (!,?,
+  ., etc.) oder Leerzeichen enthalten sein, kann dies zu Problemen bei der Bearbeitung dieser Dateien durch QGIS führen. Es ist daher zu
+  empfehlen diese Zeichen in euren Dateipfaden zu vermeiden (Umlaute ausschreiben, Leerzeichen durch \_ ersetzen).
+| Folgende Dateipfade sind im Rahmen einer Taskbearbeitung durch QGIS entscheidend:
 
 1) | Eingabepfad (Input):
-   | Hier ist die Ursprungsdatei hinterlegt, auf deren Basis QGIS einen
-     Task durchführen soll. Meistens handelt es sich um eine
+   | Hier ist die Ursprungsdatei hinterlegt, auf deren Basis QGIS einen Task durchführen soll. Meistens handelt es sich um eine
      Layer-Datei, die zuvor in QGIS importiert wurde.
 
 2) | Ausgabepfad (Output):
-   | Hier wird die durch den Task entstehende Datei abgespeichert. Der
-     Ausgabepfad wird von euch in den Werkzeugeinstellungen über die
-     Funktion ``Speichern unter ...`` festgelegt. Damit GIS die
-     Ausgabedatei auch wirklich in dem dafür vorgesehenen Ordner
-     speichert, und ihr die Datei am Ende auch wiederfindet, ist es
-     wichtig, diesen Speicherort vor dem Start eures Tools jedes Mal zu
-     definieren.
+   | Hier wird die durch den Task entstehende Datei abgespeichert. Der Ausgabepfad wird von euch in den Werkzeugeinstellungen über die
+     Funktion ``Speichern unter ...`` festgelegt. Damit GIS die Ausgabedatei auch wirklich in dem dafür vorgesehenen Ordner speichert, 
+     und ihr die Datei am Ende auch wiederfindet, ist es wichtig, diesen Speicherort vor dem Start eures Tools jedes Mal zu definieren.
 
 3) | Temporäre Dateien:
-   | Während der Durchführung des Tasks muss QGIS Zwischenergebnisse
-     erstellen. Diese werden in euren Temporären Dateien abgespeichert.
-     Anders als die anderen beiden Dateipfade, ist dieser Pfad von eurem
-     Betriebssystem festgelegt und sollte nicht verändert werden.
-     Temporäre Dateien sind benutzerspezifisch (Wenn mehrere Personen
-     einen PC verwenden, hat jede Person ihre eigenen temporären
-     Dateien). Im Dateipfad befindet sich folglich euer Benutzername.
-     Sollte dieser problematische Zeichen enthalten, kann es daher
-     sinnvoll sein diesen abzuändern.
-   | Zu beachten gilt auch: Sollte man einen temporären Layer erzeugen,
-     entspricht der Output (siehe 2) den temporären Dateien.
+   | Während der Durchführung des Tasks muss QGIS Zwischenergebnisse erstellen. Diese werden in euren Temporären Dateien abgespeichert.
+     Anders als die anderen beiden Dateipfade, ist dieser Pfad von eurem Betriebssystem festgelegt und sollte nicht verändert werden.
+     Temporäre Dateien sind benutzerspezifisch (Wenn mehrere Personen einen PC verwenden, hat jede Person ihre eigenen temporären
+     Dateien). Im Dateipfad befindet sich folglich euer Benutzername. Sollte dieser problematische Zeichen enthalten, kann es daher
+     sinnvoll sein diesen abzuändern. Zu beachten gilt auch: Sollte man einen temporären Layer erzeugen, entspricht der Output (siehe 2) den temporären Dateien.
 
 Änderung von Einstellungen
 --------------------------
 
-Sollten Veränderungen an den Einstellungen von QGIS vorgenommen werden
-(wie z.B. `hier `__ gezeigt), sind diese oft
-nach deren Bestätigung durch das Drücken der *OK*-Taste nicht sofort
-ersichtlich. Dies bedeutet jedoch nicht, dass die Änderungen nicht
-übernommen wurden. Stattdessen ist lediglich ein Neustart von QGIS
-nötig, um die Änderungen zu übernehmen (QGIS weist euch nicht darauf
+Sollten Veränderungen an den Einstellungen von QGIS vorgenommen werden wie z.B. `hier `__ gezeigt), sind diese oft
+nach deren Bestätigung durch das Drücken der *OK*-Taste nicht sofort ersichtlich. Dies bedeutet jedoch nicht, dass die Änderungen nicht
+übernommen wurden. Stattdessen ist lediglich ein Neustart von QGIS nötig, um die Änderungen zu übernehmen (QGIS weist euch nicht darauf
 hin, dass ein Neustart benötigt wird).
+
+
+
+Weitere klassische Probleme von GIS-Software
+---------------------------------------
+
+https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_common_errors_and_Issues.html
 
 

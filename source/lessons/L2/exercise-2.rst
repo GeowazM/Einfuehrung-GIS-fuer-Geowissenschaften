@@ -11,8 +11,8 @@ Exercise 2
 .. note::
 
    **Support findest du im Wiki**
-      *  `Vektorsignaturen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Vektorsignaturen>`__
-      *  `Kartengestaltung <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Kartengestaltung>`__
+      *  `Vektorsignaturen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_visualisation_wiki.html>`__
+      *  `Kartengestaltung <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_map_making_wiki.html>`__
 
 .. seealso::
 

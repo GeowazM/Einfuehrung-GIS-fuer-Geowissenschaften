@@ -117,3 +117,10 @@ Zum Beispiel hat der MODIS-Sensor eine zeitliche Auflösung von 1-2 Tagen. Das b
     ..  youtube:: kk4z6f30NFg&t=2s
 
     `itiscivilengineering CIVILELITE on Youtube <https://www.youtube.com/watch?v=kk4z6f30NFg&t=2s>`_.
+
+
+
+Mehr Informationen
+---------------
+
+https://giscience.github.io/gis-training-resource-center/content/Module_8/en_qgis_remote_sensing_theory.html

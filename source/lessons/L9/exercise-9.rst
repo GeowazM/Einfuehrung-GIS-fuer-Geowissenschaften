@@ -7,7 +7,7 @@ Exercise 9
 
 .. hint::
 
-      -  `Automatisierung <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Automatisierung>`__
+      -  `Automatisierung <https://giscience.github.io/gis-training-resource-center/content/Module_7/en_qgis_automation_theory.html>`__
 
 
 .. seealso::

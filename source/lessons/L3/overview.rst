@@ -5,18 +5,13 @@ Das zentrale Merkmal von Vektordatentypen ist die Attributtabelle. In dieser Ste
 Beispiel: Der Punkt beschreibt die Position eines Vulkans auf der Erde. In der Attributtabelle befindet sich die Sachdaten wie der Name des Vulkans 
 und das Datum der letzten Eruption.
 
-Manuelle Auswahl
-----------------
 
-.. raw:: html
 
-   <video width="100%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/en_qgis_select_features_by_click_wiki">
+Infos und Videos dazu findest Du hier: https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/attributtabelle.html
 
-.. raw:: html
 
-   </video>
+Infos zu Abfragen: https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_non_spatial_queries_wiki.html
 
--  manuell in der Attributtabelle auswählen durch anklicken
 
 Select by Expression
 --------------------
@@ -30,7 +25,7 @@ Arithmetische Operatoren (Integer, Float-Felder)
 
 .. raw:: html
 
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_select_by_expresion_greater.mp4">
+   <video width="90%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_select_by_expresion_greater.mp4">
 
 .. raw:: html
 
