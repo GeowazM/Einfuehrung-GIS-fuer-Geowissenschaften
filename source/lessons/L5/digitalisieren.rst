@@ -48,11 +48,8 @@ Einen neuen Layer erstellen
 
 .. raw:: html
 
-   <video width="100%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/blob/main/fig/Create_new_vector_data.mp4">
+   <video width="100%" controls src="https://github.com/GeowazM/gis-training-resource-heigit/blob/main/fig/Create_new_vector_data.mp4"></video>
 
-.. raw:: html
-
-   </video>
 
 Geometrien zu einem Layer hinzufügen
 ------------------------------------
