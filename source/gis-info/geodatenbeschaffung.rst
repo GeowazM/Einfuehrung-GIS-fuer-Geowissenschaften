@@ -1,15 +1,122 @@
 Geodatenbeschaffung - Ergänzung
 ===================
 
-Für die Analysen im Tutorium nutzen wir eine vielzahl unterschiedlicher
-Datensätze aus verschiedenen Quellen. Auch für eure Abschlussaufgabe
-werdet ihr Geodaten von unterschiedlichen Websites, Behörden,
-Open-Data-Portalen, etc. beziehen.
+Für die Analysen im Tutorium nutzen wir eine vielzahl unterschiedlicher Datensätze aus verschiedenen Quellen. Auch für eure Abschlussaufgabe
+werdet ihr Geodaten von unterschiedlichen Websites, Behörden, Open-Data-Portalen, etc. beziehen.
 
-Hier findet eine unvollständige Liste, wo ihr Geodaten herunterladen
-könnt.
+Hier findet eine unvollständige Liste, wo ihr Geodaten herunterladen könnt.
 
 Darüber hinaus könnt ihr hier vorbei schauen. Hier wurde von der AG geoinformatik der Uni Tübingen eine Übersicht erstellt: https://felixweinschenk.github.io/Website_Datenquellen_Geoinformatik/
+
+Um die passenden Daten für Ihr Projekt zu finden, können Sie Online-Plattformen für den Datenaustausch nutzen. Einige der wichtigsten Portale sind unten aufgeführt.
+
+## Worauf Sie bei der Datensuche achten sollten
+
+**Datenquelle:** Stellen Sie immer sicher, dass Sie Daten aus vertrauenswürdigen Quellen verwenden. Die Organisation, die die Daten bereitstellt, ist der beste Indikator. Darüber hinaus sind die Verwendung der Daten in seriösen Kontexten oder die Anzahl der Downloads gute Anhaltspunkte.
+
+**Datengröße:** Manchmal können Sie auf Daten in verschiedenen Maßstäben, Auflösungen usw. zugreifen. Wählen Sie einen Datensatz, der für Ihren Zweck geeignet ist und den Sie problemlos verarbeiten können. Wenn Sie beispielsweise nur Daten für eine bestimmte Region benötigen, wählen Sie nur die Daten dieses Verwaltungsgebiets aus.
+
+**Datenformat:** Möglicherweise stehen verschiedene Formate zur Auswahl. Überlegen Sie, was für Ihre Anforderungen am praktischsten ist – sowohl für die eigene Nutzung als auch für die eventuelle Weitergabe.
+
+**Erfassungsdatum:** Prüfen Sie unbedingt, wann die Daten erhoben wurden und ob dieses Datum mit Ihren Anforderungen übereinstimmt. Kontrollieren Sie, ob eventuell aktuellere Daten aus einer anderen Quelle verfügbar sind.
+
+**Datenlizenz:** Welche Art von Lizenz haben die Daten? Wie dürfen Sie diese nutzen oder teilen und wie muss die Quelle zitiert werden? Vergewissern Sie sich, dass Sie die Lizenzbestimmungen einhalten, um rechtliche Schwierigkeiten zu vermeiden.
+
+.. figure:: /fig/en_data_sources_examples_cartong.png
+   :name: de_data_sources_examples_cartong
+   :width: 600 px
+
+   Daten für Karten oder GIS-Analysen können aus verschiedenen Quellen stammen (Quelle: [CartONG](https://www.cartong.org/en/)).
+
+
+==============================
+Arten von Geodaten
+==============================
+
+* Vektordaten
+* Rasterdaten
+* Nicht-räumliche Daten umgewandelt in Geodaten
+
+Vektordaten
+===========
+
+Vektordaten können die folgenden Datenformate aufweisen: 
+.. list-table:: Vektordaten Formate
+   :widths: 15 25 60
+   :header-rows: 1
+
+   * - Dateiendung
+     - Name
+     - Beschreibung
+   * - ``.shp``
+     - Shapefile
+     - Veraltetes, aber noch weit verbreitetes Geodatenformat. Kann nur einen Datensatz enthalten. Ein Shapefile **muss** diese Dateien enthalten: ``.shp``, ``.shx`` und ``.dbf``. Es kann auch weitere Dateien enthalten wie: ``.prj``, ``.sbn``, ``.sbx``, ``.cpg``, ``.qix``.
+   * - ``.gpkg``
+     - GeoPackage
+     - Sehr vielseitiges Geodatenformat und der neue Standard für Geodaten. Kann mehrere Dateien enthalten (Vektor, Raster und nicht-räumliche Daten wie Tabellen).
+   * - ``.kml``
+     - Keyhole Markup Language
+     - Geodatenformat zur Verwendung mit Google Earth.
+   * - ``.gpx``
+     - GPS Exchange Format
+     - Geodatenformat für den Austausch von Koordinaten. Zum Beispiel für Wegpunkte von Tracks.
+   * - ``.geojson``
+     - GeoJSON
+     - Ähnlich wie Shapefiles, speichert jedoch alle Informationen in einer einzigen Datei.
+
+Rasterdaten
+===========
+
+Rasterdaten können die folgenden Datenformate aufweisen: 
+.. list-table:: Rasterdaten Formate
+   :widths: 20 20 60
+   :header-rows: 1
+
+   * - Dateiendung
+     - Name
+     - Beschreibung
+   * - ``.tif`` / ``.tiff`` / ``.geotiff``
+     - Tag Image File Format
+     - Gängiges Format für Raster- und Bilddaten. Verfügt nicht notwendigerweise über georeferenzierte Informationen. Wenn eine .tif-Datei georeferenzierte Informationen besitzt, wird sie als GeoTIFF bezeichnet.
+   * - ``.nc``
+     - netCDF
+     - Standard-Datenformat für wissenschaftliche Daten wie Geschwindigkeit oder Temperatur. Kann eine Rasterdatei sein. Kann mehrere Datensätze enthalten.
+   * - ``.asc``
+     - Esri ASCII Grid files
+     - Altes, einfaches Rasterdateiformat, immer mit georeferenzierten Informationen.
+
+Textdaten
+=========
+
+.. list-table:: Textdaten Formate
+   :widths: 15 25 60
+   :header-rows: 1
+
+   * - Dateiendung
+     - Name
+     - Beschreibung
+   * - ``.xls``
+     - EXCEL
+     - Datenformat, das für EXCEL verwendet wird. EXCEL ist ein weit verbreitetes Tabellenkalkulationsprogramm.
+   * - ``.csv``
+     - Comma-separated values
+     - Sehr gängiges Datenformat, das Daten mit Kommas oder anderen Trennzeichen separiert.
+
+Bewährte Praktiken
+==================
+
+Das untenstehende Video gibt einen guten Überblick über Geodatenformate und bietet Tipps zur Dateibenennung und zu anderen bewährten Praktiken.
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/kggwFZHXCl4?si=i2lLEo0u0wGdB759" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+Weitere Quellen
+==================
+
+
 
 +-----------------------------+----------------------------------------+
 | Name                        | Welche Datensätze (u.a.)               |
