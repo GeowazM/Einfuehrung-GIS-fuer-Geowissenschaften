@@ -1,9 +1,7 @@
 
 ===============================
-Hintergrundkarten (Basemaps)
+Hintergrundkarten
 ===============================
-
-**🔙** `Zurück zur Startseite </content/intro.md>`_
 
 Hintergrundkarten (Basemaps) sind Hintergrund-Karten. Sie sind oft sehr praktisch, da sie einfach zu bedienen sind, eine leichte Orientierung auf der Kartenansicht ermöglichen und vielfältig sind.
 

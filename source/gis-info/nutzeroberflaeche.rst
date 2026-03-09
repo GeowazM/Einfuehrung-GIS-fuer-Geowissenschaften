@@ -1,4 +1,4 @@
-Nutzeroberläche kennen lernen
+QGIS Oberläche
 ===========================
 
 -  `Übersicht <#übersicht>`__

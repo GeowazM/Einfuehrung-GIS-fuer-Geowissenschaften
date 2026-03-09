@@ -10,7 +10,8 @@ Darüber hinaus könnt ihr hier vorbei schauen. Hier wurde von der AG geoinforma
 
 Um die passenden Daten für Ihr Projekt zu finden, können Sie Online-Plattformen für den Datenaustausch nutzen. Einige der wichtigsten Portale sind unten aufgeführt.
 
-## Worauf Sie bei der Datensuche achten sollten
+Worauf Sie bei der Datensuche achten sollten
+------------
 
 **Datenquelle:** Stellen Sie immer sicher, dass Sie Daten aus vertrauenswürdigen Quellen verwenden. Die Organisation, die die Daten bereitstellt, ist der beste Indikator. Darüber hinaus sind die Verwendung der Daten in seriösen Kontexten oder die Anzahl der Downloads gute Anhaltspunkte.
 

@@ -139,11 +139,9 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :caption: Wissenswertes
 
     gis-info/was-ist-gis
-    gis-info/was-ist-gis_all
     gis-info/koordinatensysteme
     gis-info/geodatenmanagment
     gis-info/geodatenbeschaffung
-    gis-info/geodatenbeschaffung_v2
     gis-info/hinweise
     gis-info/nutzeroberflaeche
     gis-info/einstellungen
@@ -151,8 +149,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     gis-info/attributtabelle
     gis-info/symbolisierung
     gis-info/erweiterungen
-    gis-info/probleme
-    gis-info/glossar
 
 
 .. toctree::
