@@ -164,20 +164,10 @@ Weitere Ressourcen
 
 Das untenstehende YouTube-Video zeigt den gesamten Prozess der Digitalisierung von Polygonen in QGIS etwas detaillierter. Beachten Sie, dass die Person im Video eine ältere QGIS-Version verwendet, weshalb einige Dinge in Ihrer Version anders aussehen könnten.
 
-.. raw:: html
+.. admonition:: QGIS Digitalisierung
+    :class: admonition-youtube
 
-   <iframe width="560" height="315" src="https://youtu.be/embed/Zer558SnKX4?si=ELKStx6y5_B_ilRe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    ..  youtube:: UNEKHFDnIIA
 
-.. 
-   Hier werden die Inline-Bilder als Substitutions definiert, damit sie oben im Text korrekt eingefügt werden.
+    `Marshall Mappers <https://www.youtube.com/watch?v=UNEKHFDnIIA>`_.
 
-.. |three_points| image:: /fig/Three_points.png
-.. |mIconProjectionEnabled| image:: /fig/mIconProjectionEnabled.png
-.. |mActionNewAttribute| image:: /fig/mActionNewAttribute.png
-.. |mActionToggleEditing| image:: /fig/mActionToggleEditing.png
-.. |mActionCapturePoint| image:: /fig/mActionCapturePoint.png
-.. |mActionSaveEdits| image:: /fig/mActionSaveEdits.png
-.. |mActionCaptureLine| image:: /fig/mActionCaptureLine.png
-.. |mActionCapturePolygon| image:: /fig/mActionCapturePolygon.png
-.. |qgis_3.40_vertex_tool| image:: /fig/qgis_3.40_vertex_tool.png
-.. |mActionAddRing| image:: /fig/mActionAddRing.png
