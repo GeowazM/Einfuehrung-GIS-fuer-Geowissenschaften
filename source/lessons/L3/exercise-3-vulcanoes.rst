@@ -39,7 +39,7 @@ Aufgaben
 Von den Geodaten zu den Informationen. Ein EU Forschungsprojekt möchte herausfinden, wie viele Italiener:innen in der Nähe zu aktiven Vulkanen 
 leben und international vergleichen. Nutze dafür die Daten des Global Volcanism Program (siehe Daten oben).
 
-1. Öffne die oben angegebenen Dateien in QGIS. Bringe die Daten in eine gleiche Projektion (z.B. ETRS89 / UTM Zone 32N) und speichere dein Projekt sowie deine Geodaten sinnvoll ab..
+1. Öffne die oben angegebenen Dateien in QGIS. Bringe die Daten in eine gleiche Projektion (z.B. WGS 84 / Web-Mercator - EPSG:3857) und speichere dein Projekt sowie deine Geodaten sinnvoll ab..
 2. Wähle in der Benutzeroberfläche 3 Vulkane deiner Wahl (manuell) aus. Öffne nun die Attributtabelle und lass dir die Informationen für die
    ausgewählten Vulkane (Features) anzeigen. Speichere die ausgewählten Vulkane anschließend in einer neuen Datei.
 3. Wähle mit einer Abfrage alle Vulkane aus, in dessen 10km Radius mehr als 80.000 Einwohner beheimaten. Wie viele Vulkane
