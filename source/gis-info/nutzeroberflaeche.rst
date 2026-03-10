@@ -1,4 +1,4 @@
-QGIS Oberläche
+QGIS Oberfläche
 ===========================
 
 Hier gehts zu den (aktuellen) Videos: 
@@ -91,7 +91,7 @@ Projekt speichern und öffnen
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig//qgis_save_project.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/qgis_save_as.mp4">
 
 .. raw:: html
 
@@ -99,7 +99,7 @@ Projekt speichern und öffnen
 
 .. raw:: html
 
-   <video width="90%" controls src="https://github.com/GIScience/GeowazM/gis-training-resource-heigit/raw/main/fig/qgis_open_project.mp4">
+   <video width="90%" controls src="https://github.com/GIScience/gis-training-resource-center/raw/main/fig/qgis_open_project.mp4">
 
 .. raw:: html
 

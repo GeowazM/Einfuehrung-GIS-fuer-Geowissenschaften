@@ -113,7 +113,7 @@ Die Standard-Ordnerstruktur hat zwei wesentliche Vorteile:
 1. Durch die Weitergabe des gesamten Projektordners können wir sicher sein, dass das Projekt auch auf einem anderen Computer problemlos läuft.
 2. Die Ordnerstruktur unterstützt die ordnungsgemäße Organisation von Geodaten und gewährleistet die stabile Funktion eines QGIS-Projekts.
 
-Die Vorlage für die Ordnerstruktur kann `hier <https://github.com/GIScience/gis-training-resource-center/blob/main/fig/GIS_Project_folder_template.zip>`_ heruntergeladen werden.
+Die Vorlage für die Ordnerstruktur kann `hier <https://github.com/GeowazM/gis-training-resource-heigit/blob/main/fig/Standard_project_folder_structure.drawio.svg>`_ heruntergeladen werden.
 
 .. figure:: https://github.com/GeowazM/gis-training-resource-heigit/blob/main/fig/Standard_project_folder_structure.drawio.svg
    :width: 800px

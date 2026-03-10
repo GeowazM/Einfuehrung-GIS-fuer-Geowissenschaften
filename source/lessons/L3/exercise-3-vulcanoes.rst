@@ -21,7 +21,7 @@ Exercise 3
 .. seealso::
 
    Daten
-   Lade dir die `Datenfür die Exercise 3 herunter <https://drive.google.com/file/d/1PgPannrjP2JuDgtKvFBathNstQ-WKmvD/view?usp=drive_link>`__ und speichert sie auf eurem PC.
+   Lade dir die `Daten für die Exercise 3 herunter <https://drive.google.com/file/d/1PgPannrjP2JuDgtKvFBathNstQ-WKmvD/view?usp=drive_link>`__ und speichert sie auf eurem PC.
 
    Beschaffe dir folgende weitere Daten:
       - `Lade dir die Geodaten der Platten- & Plattengrenzen <https://github.com/fraxen/tectonicplates/tree/master/GeoJSON>`__ herunter
@@ -37,9 +37,9 @@ Aufgaben
 --------
 
 Von den Geodaten zu den Informationen. Ein EU Forschungsprojekt möchte herausfinden, wie viele Italiener:innen in der Nähe zu aktiven Vulkanen 
-leben und international vergleichen. Nutze dafür die Daten des Global Volcanism Program.
+leben und international vergleichen. Nutze dafür die Daten des Global Volcanism Program (siehe Daten oben).
 
-1. Öffne die oben angegebenen Dateien in QGIS.
+1. Öffne die oben angegebenen Dateien in QGIS. Bringe die Daten in eine gleiche Projektion (z.B. ETRS89 / UTM Zone 32N) und speichere dein Projekt sowie deine Geodaten sinnvoll ab..
 2. Wähle in der Benutzeroberfläche 3 Vulkane deiner Wahl (manuell) aus. Öffne nun die Attributtabelle und lass dir die Informationen für die
    ausgewählten Vulkane (Features) anzeigen. Speichere die ausgewählten Vulkane anschließend in einer neuen Datei.
 3. Wähle mit einer Abfrage alle Vulkane aus, in dessen 10km Radius mehr als 80.000 Einwohner beheimaten. Wie viele Vulkane
