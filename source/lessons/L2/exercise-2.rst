@@ -47,8 +47,14 @@ So (oder ähnlich) kann das Ergebnis aussehen
 Weitere hilfreiche Ressourcen
 ==================
 
-Erinnerung zu den Richtlinien der Kartengestaltung
-==================================================
+
+.. admonition:: QGIS Drucklayout: Karten aus WMS
+    :class: admonition-youtube
+
+    ..  youtube:: vsWShsWaYok&t
+
+    `Geodatenwelten channel on Youtube - Ganze Playlist: <https://www.youtube.com/watch?v=vsWShsWaYok&t>`_.
+
 
 .. admonition:: Ein Videotutorial-Reihe zur Nutzung des QGIS Print Composer
     :class: admonition-youtube
