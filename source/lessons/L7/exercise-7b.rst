@@ -37,7 +37,9 @@ den Besonderheiten des Nördlinger Ries findet ihr `hier <https://www.youtube.co
 
       -  `Globale Rasteroperationen <https://giscience.github.io/gis-training-resource-center/content/Module_8/en_qgis_raster_operations.html>`__
       -  `Basic Rasteroperationen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_raster_basic_wiki.html>`__
+      -  `Merge Raster *Run Merge Tool* <https://opensourceoptions.com/merge-multiple-rasters-in-qgis-create-a-raster-mosaic/>`__
 
+https://opensourceoptions.com/merge-multiple-rasters-in-qgis-create-a-raster-mosaic/
 
 .. seealso::
 
