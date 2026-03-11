@@ -60,7 +60,7 @@ Aufgaben
 Vorbereitung des DEM's 
 
 * Verschmelzt die SRTM-Kacheln (SRTMGL1) miteinander (z.B. via **Merge**). 
-* Bringt das Höhenmodell in eine passende **metrische Projektion** (z.B. WGS 84 / UTM 32N). 
+* Bringt das Höhenmodell in eine passende **metrische Projektion** (z.B. ETRS89 / UTM 32N). 
 * Verschafft euch einen Überblick über die Werte. Bei digitalen Geländemodellen sind dies immer Höhenwerte. Was sind die maximalen und minimalen Höhen im Untersuchungsgebiet? 
 * Ladet euch mit Hilfe von `QuickMapServices <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/digitalisieren.html>`__ eine *OSM Standard* Hintergrundkarte (**Basemap**) in euer Projekt. Wo befindet sich unser Untersuchungsgebiet?
 * Nutze das Mess-Tool, um die Nord-Süd-Distanz des Kraters auszumessen. Wie Breit ist der Kraterrand (circa)?
@@ -78,7 +78,7 @@ Vorbereitung des DEM's
 -  Erstelle für den Transect_1-Layer ein Höhenprofil (bspw. Profil_1a).
 -  Das Höhenprofil soll auf der x-Achse die Distanz in Meter zeigen & auf der y-Achse die Höhe ü.N.
 -  Speichere dein Höhenprofil als PNG ab.
--  Glätte (falls möglich) euer Ergebnis in dem ihr pro Pixel den Durchschnitt der 21x21 Nachbarschaft berechnet (via **r.neighbors**).
+-  Glätte (falls möglich) euer Ergebnis in dem ihr pro Pixel den Durchschnitt der 21x21 Nachbarschaft berechnet (via **r.neighbors**). (optional)
 -  Jetzt erstelle ein Höhenprofil mit dem Transect_2 Layer und exportiere dies ebenfalls (bspw. Profil_3).
 -  Erstelle eine eigene Linie (**Layer - Create layer**), visualisiere damit ein Höhenprofil und speichere dies.
 

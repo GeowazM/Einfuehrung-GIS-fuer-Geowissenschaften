@@ -1,7 +1,7 @@
 Exercise 5 a
 ========
 
-.. admonition:: Start your assignment
+.. admonition:: Start your georeferencing project
 
     **Du kannst zwischen verschiedenen Karten, die du georeferenzieren sollst, auswählen**.
     

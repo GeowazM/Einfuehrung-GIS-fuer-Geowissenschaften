@@ -26,7 +26,7 @@ Die SRTM-Daten sind besonders nützlich für Anwendungen in der Geowissenschaft,
 .. admonition:: 25 Jahre SRTM: Eine Space-Shuttle-Mission revolutionierte die Erdbeobachtung
     :class: admonition-youtube
 
-    ..  youtube:: SlB0XGEO4R8&t=48s
+    ..  youtube:: SlB0XGEO4R8&t
 
     German Aerospace Center, DLR @ `DLR on Youtube <https://www.youtube.com/watch?v=SlB0XGEO4R8&t=48s>`_.
 
