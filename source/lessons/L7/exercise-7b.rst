@@ -70,9 +70,16 @@ Vorbereitung des DEM's
 
 -  Installiere das Plugin `Profile tools <https://plugins.qgis.org/plugins/profiletool/>`__
 
-.. caution::
+.. caution:: Plugin: QGIS Profile Tool
 
       Plugins können etwas undurchsichtig sein. Achte auf die einzelnen `Schritte des Erklärvideos <https://youtu.be/UD0Oumv5y1w?si=YfxBVAv6kwmyvjoK&t=121>`__. Kleinigkeiten können hier entscheidend sein.
+
+
+.. hint:: Neuere Funktion
+   
+      Seit kurzem gibt es auch ein integrieterte Funktion für das Erstellen von Profilen in QGIS. Dies kannst du alls Alternative nutzen, falls dsa Plugin nicht korrekt funktionieren sollte. Eine Anleitung zur Nutzung findest du hier: `Creating elevation profiles in QGIS <https://docs.qgis.org/3.28/en/docs/user_manual/processing_algs/qgis/vector_analysis.html#creating-elevation-profiles>`__.
+
+
 
 
 -  Erstelle für den Transect_1-Layer ein Höhenprofil (bspw. Profil_1a).
