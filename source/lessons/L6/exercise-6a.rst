@@ -36,7 +36,7 @@ Arbeiten mit Geländemodellen
 2. Bringe das SRTM-Höhenmodell in eine metrische Projektion (z.B. 32633).
 3. Verschaffe dir einen Überblick über die Höhenwerte. Was sind die maximalen und minimalen Höhen im Untersuchungsgebiet. Schaue dies in den Layer-Eigenschaften nach (bspw. mit einem Histogramm).
 4. Berechne aus dem SRTM-Höhenmodell Konturlinien 100 Meter Schritten.
-5. Berechne ein `Hillshade <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Fokale-Funktionen>`__ (dt. Schummerung).
+5. Berechne ein `Hillshade <https://www.geodose.com/2020/02/how-to-make-beautiful-hillshading-map-qgis.html>`__ (dt. Schummerung).
 
 🛰 Aufgabe 2
 --------
@@ -44,9 +44,9 @@ Arbeiten mit Geländemodellen
 Arbeiten mit Landsat 8 Daten
 
 1. In dieser Aufgabe arbeiten wir mit Daten des Landsat 8 Satelliten (LC08). Wir nutzen für unsere Analyse die Bänder 2, 3, 4 & 5. Welchen Farben entsprechen diese Bänder?
-2. Erstellt ein Raster Komposit (bzw. `Virtual Raster <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Globale-Funktionen>`__) aus den gegebenen Bändern.
-3. Visualisiert das Komposit in `Falschfarben <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Rasterdarstellung>`__, sodass Vegetation rot erscheint (siehe Symbology).
-4. Berechnet den Normalized Difference Vegetation Index (bspw. mit dem `Raster Calculator <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Lokale-Funktionen>`__).
+2. Erstellt ein Raster Komposit (bzw. `Virtual Raster <https://docs.qgis.org/3.40/en/docs/training_manual/rasters/data_manipulation.html>`__) aus den gegebenen Bändern.
+3. Visualisiert das Komposit in `Falschfarben <https://www.youtube.com/watch?v=DIEBThgvFCU>`__, sodass Vegetation rot erscheint (siehe Symbology).
+4. Berechnet den Normalized Difference Vegetation Index (bspw. mit dem `Raster Calculator <https://opensourceoptions.com/remote-sensing-with-qgis-calculate-ndvi/>`__).
 5. Erstellt anschließend NDVI-Klassen (**Reclassify by table**). Orientiert euch dabei an folgender Einteilung.
 
 +-----------------------------------+-----------+
