@@ -40,8 +40,8 @@ den Besonderheiten des Nördlinger Ries findet ihr `hier <https://www.youtube.co
       -  `Rasterdaten im GIS öffnen und kennenlernen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Layer-Konzept>`__
       -  `Darstellung von Rasterdaten <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Rasterdarstellung>`__
       -  `Vektordaten in Rasterdaten umwandeln <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Konvertierung>`__
-      -  `Globale Rasteroperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Globale-Funktionen>`__
-      -  `Lokale Rasteroperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Lokale-Funktionen>`__
+      -  `Globale Rasteroperationen <https://giscience.github.io/gis-training-resource-center/content/Module_8/en_qgis_raster_operations.html>`__
+      -  `Basic Rasteroperationen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_raster_basic_wiki.html>`__
 
 
 .. seealso::
@@ -72,7 +72,7 @@ Vorbereitung des DEM's
 
 .. caution::
 
-      Plugins können etwas undurchsichtig sein. Achte auf die einzelnen `Schritte des Erklärvideos <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Weitere-Rasterfunktionen>`__. Kleinigkeiten können hier entscheidend sein.
+      Plugins können etwas undurchsichtig sein. Achte auf die einzelnen `Schritte des Erklärvideos <https://youtu.be/UD0Oumv5y1w?si=YfxBVAv6kwmyvjoK&t=121>`__. Kleinigkeiten können hier entscheidend sein.
 
 
 -  Erstelle für den Transect_1-Layer ein Höhenprofil (bspw. Profil_1a).
