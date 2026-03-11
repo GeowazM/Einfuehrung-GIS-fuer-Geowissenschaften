@@ -31,15 +31,10 @@ den Besonderheiten des Nördlinger Ries findet ihr `hier <https://www.youtube.co
    Ziel der Übung
       -  Rasterdaten zuschneiden
       -  Reliefanalysen durchführen
-      -  zonale Statistiken berechnen
-      -  Rasterdaten in Vektordaten umwandeln
       -  ein Höhenprofil erstellen
 
 .. hint::
 
-      -  `Rasterdaten im GIS öffnen und kennenlernen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Layer-Konzept>`__
-      -  `Darstellung von Rasterdaten <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Rasterdarstellung>`__
-      -  `Vektordaten in Rasterdaten umwandeln <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Konvertierung>`__
       -  `Globale Rasteroperationen <https://giscience.github.io/gis-training-resource-center/content/Module_8/en_qgis_raster_operations.html>`__
       -  `Basic Rasteroperationen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_raster_basic_wiki.html>`__
 
@@ -62,7 +57,7 @@ Vorbereitung des DEM's
 * Verschmelzt die SRTM-Kacheln (SRTMGL1) miteinander (z.B. via **Merge**). 
 * Bringt das Höhenmodell in eine passende **metrische Projektion** (z.B. ETRS89 / UTM 32N). 
 * Verschafft euch einen Überblick über die Werte. Bei digitalen Geländemodellen sind dies immer Höhenwerte. Was sind die maximalen und minimalen Höhen im Untersuchungsgebiet? 
-* Ladet euch mit Hilfe von `QuickMapServices <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/digitalisieren.html>`__ eine *OSM Standard* Hintergrundkarte (**Basemap**) in euer Projekt. Wo befindet sich unser Untersuchungsgebiet?
+* Ladet euch via XYZ-Tiles die Hintergrundkarte (basemap) OpenStreetMap ins Projekt. Wo befindet sich unser Untersuchungsgebiet?
 * Nutze das Mess-Tool, um die Nord-Süd-Distanz des Kraters auszumessen. Wie Breit ist der Kraterrand (circa)?
 
 〰 Aufgabe 2 - Ein Höhenprofil erstellen
