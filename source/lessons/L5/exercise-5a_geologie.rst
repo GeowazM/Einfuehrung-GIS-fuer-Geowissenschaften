@@ -46,7 +46,7 @@ Karte der Universität Heidelberg. Um diese geologische Karte mit deinen weitere
 Aufgabe
 -----
 
-1. Versehe das zur Verfügung gestellte Raster mit WGS 84 / UTM Zone 32N Koordinaten (EPSG: 32632).
+1. Versehe das zur Verfügung gestellte Raster mit ETRS 89 / UTM Zone 32N Koordinaten (EPSG: 25832).
 2. Verwende als Referenz-Layer eine Webkarte deiner Wahl (bspw. OSM Standard oder Bing Satellite), welche du in Form einer Hintergrundkarte einbinden kannst.
 3. Wähle eine geeignete Transformationsvorschrift (bspw. Ploynominal 1, 2 oder 3) und setzt genügend und ausreichend verteilte Passpunkte.
 4. Kontrolliere abschließend deinen Erfolg, indem du die Passgenauigkeit des georeferenzierten Bildes mit überlagerten Hintergrundkarte vergleichst.
