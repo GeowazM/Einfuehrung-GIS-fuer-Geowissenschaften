@@ -42,3 +42,20 @@ So (oder ähnlich) kann das Ergebnis aussehen
    :width: 800px
 
    Einfache Karte der Bodenschätze in Baden-Württemberg. Quelle: Eigene Erhebung mit Daten des LGL & des BGR.
+
+
+Weitere hilfreiche Ressourcen
+==================
+
+Erinnerung zu den Richtlinien der Kartengestaltung
+==================================================
+
+.. admonition:: Ein Videotutorial-Reihe zur Nutzung des QGIS Print Composer
+    :class: admonition-youtube
+
+    ..  youtube:: rpkeBZHrXVQ?si=cwoZCod5rs_k6fcC
+
+    `Marshall Mappers channel on Youtube - Ganze Playlist: <https://www.youtube.com/watch?v=rpkeBZHrXVQ&list=PL5sBg4szdujUY-w6wvivTfxnCFzDQvrIi>`_.
+
+
+-  `QGIS Doku: Using Print  Layout <https://docs.qgis.org/testing/en/docs/training_manual/map_composer/map_composer.html>`__
