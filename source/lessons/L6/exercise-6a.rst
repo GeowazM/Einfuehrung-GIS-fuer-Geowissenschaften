@@ -61,6 +61,21 @@ Arbeiten mit Landsat 8 Daten
 | Wald und intensive Landwirtschaft	|     > 0.4 |
 +-----------------------------------+-----------+
 
+.. list-table:: NDVI Klassifizierung
+   :widths: 60 40
+   :header-rows: 1
+
+   * - Kategorie
+     - NDVI
+   * - Wasser und Schnee
+     - < 0
+   * - Felsen, Sand, Gebäude
+     - 0 - 0.2
+   * - Gras, Sträucher
+     - 0.2 - 0.4
+   * - Wald und intensive Landwirtschaft
+     - > 0.4
+
 * Stellt die Klassen farblich sinnvoll dar.
 
 🗻 Aufgabe 3 - Optional
