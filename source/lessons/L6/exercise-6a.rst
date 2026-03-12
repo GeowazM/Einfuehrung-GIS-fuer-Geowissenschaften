@@ -52,13 +52,13 @@ Arbeiten mit Landsat 8 Daten
 +-----------------------------------+-----------+
 | Kategorie                         | NDVI      |
 +===================================+===========+
-| Wasser und Schnee                 |       < 0 | 
+| Wasser und Schnee                 |       < 0 |
 +-----------------------------------+-----------+
 | Felsen, Sand, Gebäude	            |   0 - 0.2 |
 +-----------------------------------+-----------+
-| Gras, Sträucher	                  | 0.2 - 0.4 | 
+| Gras, Sträucher	                  | 0.2 - 0.4 |
 +-----------------------------------+-----------+
-| Wald und intensive Landwirtschaft	|     > 0.4 | 
+| Wald und intensive Landwirtschaft	|     > 0.4 |
 +-----------------------------------+-----------+
 
 * Stellt die Klassen farblich sinnvoll dar.
@@ -79,3 +79,12 @@ Arbeiten mit Landsat 8 Daten
    :alt: 3D Model of Vesuvio and Napoli
 
    3D Model vom Vesuch, Neapel und Umgebung; Erstellt mit qgisthreejs; Daten: SRTM, Landsat-9 via USGS EarthExplorer
+
+
+
+.. admonition:: 3D View in QGIS erstellen
+    :class: admonition-youtube
+
+    ..  youtube:: WsWkduuRJTI
+
+    `NASA Goddard on Youtube <https://www.youtube.com/watch?v=WsWkduuRJTI&t=5s>`_

@@ -212,7 +212,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Vom Punkt zur Fläche
 
-    lessons/L8/overview
     lessons/L8/exercise-8
 
 .. toctree::
@@ -226,7 +225,5 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Geodaten
 
-    gis-data/geobasisdaten-bw
-    gis-data/basemap-de
+    gis-data/geobasisloader
     gis-data/download-osm-data
-    gis-data/onegeology
