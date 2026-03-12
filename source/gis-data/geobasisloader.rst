@@ -8,4 +8,4 @@ Mit dem Geobasisloader lassen sich recht einfach und direkt in QGIS bundesweit G
 
     ..  youtube:: 1nuUNqCduEY&t
 
-    `NASA Goddard on Youtube <https://youtu.be/1nuUNqCduEY?si=T8TdteOowdiwubZO>`_
+    `Geodatenwelten <https://youtu.be/1nuUNqCduEY?si=T8TdteOowdiwubZO>`_
