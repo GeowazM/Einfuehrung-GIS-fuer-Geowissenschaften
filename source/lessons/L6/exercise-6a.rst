@@ -86,7 +86,7 @@ Arbeiten mit Landsat 8 Daten
 1. Erstellt ein Polygon (Vektordatei), mit dem ihr die Landsat-8 Daten und das SRTM-Höhenmodell auf euer Untersuchungsgebiet zuschneiden (clippen) könnt. Ziel ist es ein Untersuchungsgebiet um den Vesuv zu definieren.
 2. Installiert das Plugin Qgis2threejs.
    - Startet den Qgis2threejs Explorer
-   - aktiviert das ASTER Höhenmodell & das Landsat-8 Bild
+   - aktiviert das SRTM Höhenmodell (n40 & n41) & das Landsat-8 Bild (LC08)
    - Tipp: Ändere die Überhöhung (exaggeration) in den Scene Settings zu 3.0
 3. Schaut euch das Modell an, findet eine gute Perspektive und exportiert diese als .png
 
