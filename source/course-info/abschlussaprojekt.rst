@@ -8,7 +8,7 @@ Generelle Hinweise
 ------------------
 
 -  Team- oder Gruppenarbeit ist unzulässig und führt zum Nichtbestehen des Abschlussprojekts.
--  Die Abgabe erfolgt üper Mail.
+-  Die Abgabe erfolgt via Moodle.
 -  Es können maximal 100 Punkte erzielt werden.
 -  Lest alle Hinweise, bevor ihr mit der Bearbeitung beginnt.
 -  Das Abschlussprojekt kann auf Englisch oder Deutsch verfasst werden.

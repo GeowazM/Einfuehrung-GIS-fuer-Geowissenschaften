@@ -13,6 +13,11 @@ Plugin für Overpass Turbo) vorgestellt.
 Overpass ist eine API, die Anfragen für Daten aus OSM annimmt und diese
 Daten ausgibt.
 
+
+
+**Funktionierende Videos siehe hier**: International Federation of Red Cross and Red Crescent Societies (IFRC) - https://giscience.github.io/gis-training-resource-center/content/Module_2/en_data_sources.html
+
+
 overpass turbo
 --------------
 
