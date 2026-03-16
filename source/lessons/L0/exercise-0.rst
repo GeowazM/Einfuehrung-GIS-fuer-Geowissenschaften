@@ -15,7 +15,7 @@ Aufgaben
    Ladet danach die `Daten für Exercise 0 <https://drive.google.com/file/d/1fSi4GL1KClNT5_pC--gqlhL_8KQeMyVj/view?usp=sharing>`__ herunter und speichert sie an geeigneter Stelle in eurem neu
    erstellten Ordnersystem (Zip-Ordner müssen nach dem Speichern und vor dem Hereinladen ins GIS entpackt werden). In welchem Datenformat liegen die Daten zu Exercise 0 vor?
 
-3. Öffnet QGIS und nehmt erste `QGIS Einstellungen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/einstellungen.html>`__ in eurem GIS nach den Empfehlungen im Wiki vor (ändert zum Beispiel die Sprache).
+3. Öffnet QGIS und nehmt erste Änderungen in den `QGIS Einstellungen <https://qgistuto.com/de/wie-aendert-man-die-sprache-in-qgis/>`__ vor. Ändert beispielsweise, wenn ihr wollt, die Sprache.
 
 4. Ladet die Daten zu Exercise 0 in QGIS
    und macht euch mit der `QGIS Benutzeroberfläche vertraut <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/nutzeroberflaeche.html>`__.
