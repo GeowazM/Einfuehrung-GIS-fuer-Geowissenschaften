@@ -13,7 +13,7 @@ Exercise 1
 
    **Support findest du im Wiki**
       *  `Interface <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_interface_wiki.html>`__
-      *  `Layer-Konzept <hhttps://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_layer_concept_wiki.html>`__
+      *  `Layer-Konzept <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_layer_concept_wiki.html>`__
       *  `Attributdaten <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_attribute_table_wiki.html>`__
       *  `Projektionen <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_projections_wiki.html>`__
 .. seealso::
