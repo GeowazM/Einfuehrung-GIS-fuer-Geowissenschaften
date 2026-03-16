@@ -10,8 +10,8 @@ Exercise 5 b
 .. note::
 
    Wiki
-      -  `Basemaps <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Basemaps>`__
-      -  `Digitalisieren <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Digitalisierung>`__
+      -  `Basemaps <https://giscience.github.io/gis-training-resource-center/content/Module_2/en_qgis_basemap.html>`__
+      -  `Digitalisieren <https://giscience.github.io/gis-training-resource-center/content/Module_3/en_qgis_digitisation.html>`__
 
 
 .. seealso::
