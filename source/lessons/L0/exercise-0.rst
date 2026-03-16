@@ -8,10 +8,10 @@ Exercise 0
 Aufgaben
 --------
 
-1. Macht euch mit dem Thema `Datenorganisation <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/geodatenorganisation.html>`__
+1. Macht euch mit dem Thema `Datenorganisation <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_projects_folder_structure_wiki.html>`__
    vertraut und erstellt eine geeigntete Ordnerstruktur, mit der ihr in den kommenden Tagen und darüber hinaus arbeiten könnt.
 
-2. Informiert euch über verschiedene `Geodatenformate <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Geodatenformate>`__.
+2. Informiert euch über verschiedene `Geodatenformate <https://giscience.github.io/gis-training-resource-center/content/Wiki/en_qgis_geodata_types_wiki.html>`__.
    Ladet danach die `Daten für Exercise 0 <https://drive.google.com/file/d/1fSi4GL1KClNT5_pC--gqlhL_8KQeMyVj/view?usp=sharing>`__ herunter und speichert sie an geeigneter Stelle in eurem neu
    erstellten Ordnersystem (Zip-Ordner müssen nach dem Speichern und vor dem Hereinladen ins GIS entpackt werden). In welchem Datenformat liegen die Daten zu Exercise 0 vor?
 
