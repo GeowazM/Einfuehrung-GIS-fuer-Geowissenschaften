@@ -36,8 +36,8 @@ Aufgaben
 In den Daten findet ihr eine Landsat 9 Satellitenbildaufnahme, die am 17.07.2023 aufgenommen wurde. Wir wollen herausfinden, wie groß die von Lava überflossene Fläche ist.
 
 1. Erstellt zwei neue Layer: Einen für (a) die Lavafläche (rötliche) und einen zweiten (b) für die erkaltete Lava (dunkel). Fügt zu jedem Layer ein Attribute "Name" hinzu.
-2. Nutze als Kartierungsgrundlage die Landsat 9 Aufnahme in den Daten und eine Hintergrundkarte auf Basis von Satellitendaten (z.B. Bing, OSM). 
-   Diese könnt ihr mit Hilfe des Plugins QuickMapServices in QGIS einbinden. Was ist der Unterschied zwischen Bing Satellite und der Landsat-9 Aufnahme?
+2. Nutze als Kartierungsgrundlage die Landsat 9 Aufnahme in den Daten und eine Hintergrundkarte auf Basis von Satellitendaten (z.B. OpenStreetMap (OSM)). 
+   Was ist der Unterschied zwischen OSM und der Landsat-9 Aufnahme?
 3. Bennene jedes Polygon nach einem für dich passenden Namen.
 4. Berechne die Fläche deiner digitalisierten Lavafläche (Field Calculator). Wie viel km² sind es?
 5. Optional: Füge zu einer der Lavafläche einen Hyperlink zu weiteren Informationen (bspw. siehe unten) hinzu.
