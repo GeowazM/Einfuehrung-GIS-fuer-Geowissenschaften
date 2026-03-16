@@ -225,6 +225,7 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Geodaten
 
+    gis-data/ogc-dienste
     gis-data/geobasisloader
     gis-data/download-osm-data
     gis-data/mineral-mapping
