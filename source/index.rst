@@ -230,5 +230,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     gis-data/geobasisloader
     gis-data/download-osm-data
     gis-data/mineral-mapping
+    gis-data/qgreenland
     gis-data/3D_underground
 
