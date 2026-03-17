@@ -20,6 +20,16 @@ Technischer Hintergrund:
 
 - `OneGeology presentation: <https://www.slideserve.com/zamir/technical-information-ogc-wms-wfs-csw>`_
 
+European Geological Data Infrastructure (EGDI)
+--------
+
+.. admonition:: What is European Geological Data Infrastructure (EGDI)?
+    :class: admonition-youtube
+
+    ..  youtube:: yL6WBvOjzf4
+
+    `GSEU - Geological Service for Europe <https://www.youtube.com/watch?v=yL6WBvOjzf4>`_
+
 
 Kartendienste (WMS):
 ---------

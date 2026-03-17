@@ -12,6 +12,7 @@ Das ist eine freiwillige Zusatzaufgabe.
     Quellen
         * `Vulkane weltweit <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__ (Web Feature Service - WFS)
         * `World Settlement Footprint 2019 <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__ (Web Mapping Service - WMS)
+        * `External EGDI 1:1 Million pan-european Surface Geology <https://maps.europe-geology.eu/wms/help/?url=https://geoserver.geo-zs.si/egdi-surface-geology/gsmlp/wms&layers=GeologicUnitView_Lithology>`__ (Web Mapping Service - WMS)
 
 .. tip::
 
