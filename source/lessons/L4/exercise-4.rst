@@ -83,41 +83,6 @@ So (oder ähnlich) sieht’s am Ende aus
 
    Statistik zu Straßen
 
+.. dropdown:: Lösung
 
-   .. raw:: html
-
-      <details>
-
-   .. raw:: html
-
-      <summary>
-
-   Lösung
-
-   .. raw:: html
-
-      </summary>
-
-   .. raw:: html
-
-      <ul>
-
-   .. raw:: html
-
-      <li>
-
-   ``germany_dem`` -> <a href="https://drive.google.com/drive/folders/1oC-MT9N3pJqqEh27lwx-WKZQnEP-BsKg">Link zur Lösung</a>
-
-   .. raw:: html
-
-      <li>
-
-   ``temp_stations`` -> Funktion “Reproject layer”, Ziel-KBS “EPSG: 25832 - ETRS 89 / UTM zone 32N”
-
-   .. raw:: html
-
-      </ul>
-
-   .. raw:: html
-
-      </details>
+   * `Geopackage mit allen Layern herunterladen <https://drive.google.com/file/d/1DYak8D9tQuNARzyAG1JvofnS4r4u7Sh_/view?usp=drive_link>`_
