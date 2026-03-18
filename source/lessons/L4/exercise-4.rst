@@ -83,5 +83,5 @@ So (oder ähnlich) sieht’s am Ende aus
 
    Statistik zu Straßen
 
-.. seealso:: Lösung
+.. hint:: Lösung
    - `Geopackage mit allen Layern herunterladen <https://drive.google.com/file/d/1DYak8D9tQuNARzyAG1JvofnS4r4u7Sh_/view?usp=drive_link>`_
