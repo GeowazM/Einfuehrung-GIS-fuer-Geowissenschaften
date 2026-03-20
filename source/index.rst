@@ -232,4 +232,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     gis-data/mineral-mapping
     gis-data/qgreenland
     gis-data/3D_underground
+    gis-data/qfield
+
 
