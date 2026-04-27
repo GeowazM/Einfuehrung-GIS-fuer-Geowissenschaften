@@ -129,9 +129,9 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :caption: Kursinhalte
 
     course-info/kursinfo
-    course-info/abschlussaprojekt
+    course-info/abschlussaufgabe
     course-info/resources
-    course-info/theteam
+    course-info/acknowledgment
     course-info/licensing
 
 .. toctree::

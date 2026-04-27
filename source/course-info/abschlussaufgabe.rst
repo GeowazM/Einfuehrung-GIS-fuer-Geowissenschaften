@@ -8,7 +8,7 @@ Generelle Hinweise
 ------------------
 
 -  Team- oder Gruppenarbeit ist unzulässig und führt zum Nichtbestehen des Abschlussprojekts.
--  Die Abgabe erfolgt via Moodle.
+-  Die Abgabe erfolgt üper Mail.
 -  Es können maximal 100 Punkte erzielt werden.
 -  Lest alle Hinweise, bevor ihr mit der Bearbeitung beginnt.
 -  Das Abschlussprojekt kann auf Englisch oder Deutsch verfasst werden.
@@ -16,12 +16,9 @@ Generelle Hinweise
 Zur Verfügung stehende Materialien:
 -----------------------------------
 
--  Nutzt das Wiki, hier findet ihr auch eine `Übersicht über Geodatenquellen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/Geodatenbeschaffung>`__
--  Hier eine `Vorlage <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/blob/master/abgabe_05_abschlussaufgabe/Beispiele/00_Template_Ausarbeitung_Abschlussaufgabe.pdf>`__
+-  Nutzt das Wiki, hier findet ihr auch eine `Übersicht über Geodatenquellen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/geodatenbeschaffung.html>`__
+-  Hier eine `Vorlage <https://drive.google.com/file/d/1eCn0mzmMFWv_B4P-_iRVcXheVRR28V9Y/view?usp=sharing>`__
    wie der schriftliche Teil des Abschlussprojekts aussehen kann. (Achtung: Diese Vorlage ist nicht vollständig und dient nur der Orientierung.)
--  Beispielabgaben aus den letzten Jahren findet ihr `hier <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/tree/master/abgabe_05_abschlussaufgabe/Beispiele>`__.
-   Diese Beispiele wurden als gut bis sehr gut bewertet. Es gibt also auch in diesen Arbeiten einige kleinere Schwächen. Als grobe
-   Orientierung können die Beispiele aber ohne Probleme für eure Arbeiten dienen.
 
 Abzugeben sind:
 ---------------
