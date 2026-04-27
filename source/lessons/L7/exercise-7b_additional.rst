@@ -30,14 +30,39 @@ Exercise 7 - Optional
 
    Quelle: `OGC.org <https://www.ogc.org/de/publications/standard/wms/>`__
 
-   Als Alternative zu einem WMS-Layer werden häufig WMTS-Layer bereitgestell: 
+   Als Alternative zu einem WMS-Layer werden häufig WMTS-Layer bereitgestellt: 
    Da WMTS vorgerenderte Kacheln verwendet, sind die Antwortzeiten sehr kurz. Die Kacheln können auf dem Server und Client zwischengespeichert werden, was die Ladezeiten erheblich reduziert.
    Quelle `Weichand, J. (2014): Moderne Geodatenbereitstellung im Kontext der europäischen Geodateninfrastruktur INSPIRE. FOSSGIS 2014. <https://www.weichand.de/download/fossgis_2014_Weichand_INSPIRE-Netzdienste.pdf>`__
 
 
 
+🧮 Aufgabe 1 - Das Relief analysieren und visualisieren
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-🗺 Aufgabe 1 - WMS-Layer hinzufügen
+Aufgabe 1 a - Visualisieren
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Berechnet eine Schummerung (via **Hillshade**) für das Geländemodell. Tipp: Nutze die Processing - Toolbox, um Funktionen zu finden.
+-  Füge den Wert 0 (schwarze Ränder am Dateirand) den No Data Values hinzu (via *Transparency - Additional…*)
+-  Schiebe das Höhenmodell-Layer (DEM) über den Hillshade-Layer und setze die Transparenz des DEMs auf 70% (**Transparency - Global Opacity**).
+-  Ermittelt die Hangneigung in ° (via `Slope <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Fokale-Funktionen>`__). Diese kann eine Visualisierung ebenfalls aufwerten.
+
+
+Aufgabe 1 b - Analysieren
+^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Selektiert besonders steile Regionen (>20°) (nutzt dazu das `Reclassify Tool <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Lokale-Funktionen>`__)
+-  Erstellt Übersichtsstatistiken für eine von dir erstellte Fläche (bspw. mit Hilfe von **Zonal Statistics**).
+
+   -  Schaut euch die Werte an. Was zeigen uns die Zahlen?
+   -  Was ist die maximale Hangneigung pro Nationalpark?
+   -  Wie hoch ist die durchschnittliche Hangneigung pro Nationalpark?
+
+-  Konvertiert die Auswahl ins Vektorformat (**Conversion - Raster to Vector**). Anschließend kannst du das **Basic statistic per field** nutzen.
+
+
+
+🗺 Aufgabe 2 - WMS-Layer hinzufügen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Füge einen WMS-Layer der `Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) <https://www.bgr.bund.de/DE/Home/homepage_node.html>`__ hinzu
@@ -87,36 +112,3 @@ Exercise 7 - Optional
 
       </details>
 
-
-.. raw:: html
-
-   <details>
-     <summary>Lösung</summary>
-
-     <p><a href="https://services.bgr.de/wms/inspire_ge/guek250/?REQUEST=GetCapabilities&SERVICE=wms&VERSION=1.3.0">Der WMS-Layer liegt als XML Datei vor</a></p>
-     <p>Link:https://services.bgr.de/wms/inspire_ge/guek250/?REQUEST=GetCapabilities&SERVICE=wms&VERSION=1.3.0</p>
-
-   </details>
-
-🧮 Aufgabe 2 - Das Relief analysieren und visualisieren
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Aufgabe 2 a - Visualisieren
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
--  Berechnet eine Schummerung (via **Hillshade**) für das Geländemodell. Tipp: Nutze die Processing - Toolbox, um Funktionen zu finden.
--  Füge den Wert 0 (schwarze Ränder am Dateirand) den No Data Values hinzu (via *Transparency - Additional…*)
--  Schiebe das Höhenmodell-Layer (DEM) über den Hillshade-Layer und setze die Transparenz des DEMs auf 70% (**Transparency - Global Opacity**).
--  Ermittelt die Hangneigung in ° (via **Slope**). Diese kann eine Visualisierung ebenfalls aufwerten.
-
-Aufgabe 2 b - Analysieren
-^^^^^^^^^^^^^^^^^^^^^^^
-
--  Selektiert besonders steile Regionen (>20°) (nutzt dazu das **Reclassify Tool**)
--  Erstellt Übersichtsstatistiken für die beiden Nationalparks (bspw. mit Hilfe von **Zonal Statistics**).
-
-   -  Schaut euch die Werte an. Was zeigen uns die Zahlen?
-   -  Was ist die maximale Hangneigung pro Nationalpark?
-   -  Wie hoch ist die durchschnittliche Hangneigung pro Nationalpark?
-
--  Konvertiert die Auswahl ins Vektorformat (**Conversion - Raster to Vector**). Anschließend kannst du das **Basic statistic per field** nutzen.

@@ -12,7 +12,7 @@ Exercise 4
 .. seealso::
 
    Daten
-   Ladet euch `die Daten herunter <exercise_04_data.zip>`__ und speichert
+   Ladet euch `die Daten herunter <https://drive.google.com/file/d/1wbN5zWaWHttQC9utpWYRTOWSA01cHxcF/view?usp=drive_link>`__ und speichert
    sie auf eurem PC. Legt einen lokalen Ordner an und speichert dort die
    obigen Daten (.zip Ordner müssen vorher entpackt werden.).
       * Osnabrück Fluss Hase (Line) (Quelle: `OpenStreetMap <https://www.openstreetmap.org>`__)
@@ -31,13 +31,13 @@ Datenvorbereitung
 ~~~~~~~~~~~~~~~~~
 
 1. Schneidet den Gebäude-Datensatz und den Straßen-Layer auf das Stadtgebiet Osnabrücks zu (**Clip** Funktion).
-2. Projiziert anschließend alle Daten in ein metrisches Koordinatensystem (z.B. WGS 84 / UTM 32N).
+2. Achtet darauf, dass alle Daten in einem metrischen Koordinatensystem (z.B. WGS 84 / UTM 32N) vorliegen.
 
 Hochwasserbereich ermitteln
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 3. Verbindet alle Teilstücke der Hase zu einer einzelnen Geometrie. Nutzt dazu die **Dissolve** Funktion.
-4. Zur Berechnung der Hochwassergefahr nutzen wir einen vereinfachten Ansatz. Berechnet 3 Stufen der Hochwassergefahr mithilfe der **(Multiple)Buffer**-Funktion:
+4. Zur Berechnung der Hochwassergefahr nutzen wir einen vereinfachten Ansatz. Berechnet 3 Stufen der Hochwassergefahr mithilfe der **(Multiple-Ring) Buffer**-Funktion:
 
 (a) alle Bereiche in Abstand von maximal 100 m zur Hase,
 (b) alle Bereiche zwischen 100 m und 200 m Abstand,

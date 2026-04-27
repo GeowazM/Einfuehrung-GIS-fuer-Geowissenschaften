@@ -19,12 +19,12 @@ Lernziele
 ---------
 
 -  Übertragung von Konzepten aus der Vorlesung in praktische Anwendung
--  Betrachtung des Workflows von GIS-Analysen (EVAP nach ?)
+-  Betrachtung des Workflows von GIS-Analysen (EVAP nach Bill (2016))
 
-   -  **E**rhebung     
-   -  **V**erarbeitung
-   -  **A**nalyse 
-   -  **P**räsentation
+   -  Erhebung     
+   -  Verarbeitung
+   -  Analyse 
+   -  Präsentation
 
 -  Einführung in das Desktop GIS QGIS (open source)
 
@@ -61,11 +61,13 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 | 4     | Hochwasser in OS       | `Räumliche Abfrage nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L4/exercise-4.html>`__                                    | Vektor   |
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 5     | Geol. Karte in HD      | `Digitalisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/exercise-5.html>`__                                              | Raster   |
+| 5a    | Geol. Karte in HD      | `Georeferenzieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/exercise-5a_geologie.html>`__                                  | Raster   |
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 6     | Gelände in Kenia       | `Copernicus Daten & 3D Visualisierungen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L6/exercise-6.html>`__                      | Raster   |
+| 5b    | Lava auf Island        | `Digitalisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/exercise-5b-iceland.html>`__                                     | Vektor   |
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 7     | Steigung Wanderweg     | `Digitale Geländemodelle nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L7/exercise-7b.html>`__                             | Raster   |
+| 6     | Gelände des Vesuvs     | `Copernicus Daten & 3D Visualisierungen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L6/exercise-6.html>`__                      | Raster   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 7     | Profil Nördlinger Ries | `Digitale Geländemodelle nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L7/exercise-7b.html>`__                             | Raster   |
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 | 8     | Temperaturen in DE     | `Räumliche Interpolation durchführen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L8/exercise-8.html8>`__                        | Raster   |
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
@@ -82,13 +84,38 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     **WICHTIG:** Die **Abgabe des Abschlussprojekts** erfolgt ausschließlich per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt inkl. allen relevanten Layern öffnen kann. 
     Die aus der Gesamt-Punktzahl resultierende Note wird dem Prüfungssekretariat gemeldet.
 
+.. attention::
 
-.. admonition:: Interessante Links
+    The content of the course and some resources is based on open source data and materials. A special thanks refers to the following persons and institutions.
+    
+    - `GIScience & HeiGIT of the Heidelberg University <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung>`__
+    - `GIS-Station - Research Group for Earth Observation (rgeo), Heidelberg University of Education <https://rgeo.de/>`__
+    - `Håvard Aagesen & Team of the University of Helsinki <https://geo-python-site.readthedocs.io/en/latest/course-info/theteam.html>`__
+    - `Zertifikatsstudium Geodatenmanager/-in <https://www.geodatenmanagerin-tuebingen.de/>`__
 
-    - https://arcg.is/1vqrur 
-    - https://www.geotis.de/geotisapp/geotis.php
-    - https://www.nlog.nl/southern-permian-basin-atlas
-    - https://nibis.lbeg.de/cardomap3/
+.. admonition:: Literatur
+
+    1. Bill, R. (2016): Grundlagen der Geo-Informationssysteme. Berlin-Offenbach. Wichmann Verlag. 855 Seiten, 6. Auflage.
+    2. `OpenGeoEdu <https://www.opengeoedu.de/>`__ 
+
+.. admonition:: Websites, Programme und Geoportale für geowissenschaftliche Anwendungen
+
+    - `One Geology <https://onegeology.org/>`__
+    - `Open Topography <https://portal.opentopography.org/datasets>`__
+    - `Global Volcanism Program <https://portal.opentopography.org/datasets>`__
+    - `European Geological Data Infrastructure <https://www.europe-geology.eu/>`__
+    - `Bundesanstalt für Geowissenschaften und Rohstoffe <https://www.bgr.bund.de/DE/Themen/Geodatenmanagement/Geoportal/geoportal_node.html>`__
+    - `British Geological Survey <https://www.bgs.ac.uk/hosted-websites/>`__
+    - `USGS Earth Explorer <https://earthexplorer.usgs.gov/>`__
+    - `USGS Earthquakes <https://earthquake.usgs.gov/earthquakes/map/?extent=-45.08904,-173.67188&extent=84.9901,251.01563>`__
+    - `PaleoClim <http://www.paleoclim.org/>`__
+    - `Southern Permian Basin Atlas <https://www.nlog.nl/southern-permian-basin-atlas>`__
+    - `Geothermisches Informationssystem <https://www.geotis.de/geotisapp/geotis.php>`__
+    - `NIBIS KARTENSERVER <https://nibis.lbeg.de/cardomap3/>`__
+
+.. admonition:: Hilfe
+
+    Starte mit dem Kurs indem du im Navigationsfesnter (links) die "Kursinhalte" & den Bereich "Wissenswertes" anschaust.
 
 .. admonition:: Hilfe
 
@@ -96,9 +123,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     Lösungen, Herangehensweisen zu diesen Problemen besprechen wir in der Vorlesung und während der gesamten Kurswoche.
     Online Hilfe findet ihr im `Wiki <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/home>`__ des Geographischen Instituts der Uni Heidelberg und ganz allgemein im Internet.
 
-.. admonition:: Hilfe
-
-    Starte mit dem Kurs indem du im Navigationsfesnter (links) die "Kursinhalte" & den Bereich "Wissenswertes" anschaust.
 
 .. toctree::
     :maxdepth: 2
@@ -116,7 +140,8 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 
     gis-info/was-ist-gis
     gis-info/koordinatensysteme
-    gis-info/datenorganisation
+    gis-info/geodatenorganisation
+    gis-info/geodatenbeschaffung
     gis-info/hinweise
     gis-info/einstellungen
     gis-info/nutzeroberflaeche
@@ -135,8 +160,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Das Layerprinzip
 
-    lessons/L1/overview
-    lessons/L1/exercise-1-germany
     lessons/L1/exercise-1-tectonicplates
     lessons/L1/exercise-1-tectonicplates_additional
 
@@ -161,7 +184,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :caption: Vektorgeometrien verarbeiten
 
     lessons/L4/exercise-4
-    lessons/L4/exercise-4_ahrweiler
 
 .. toctree::
     :maxdepth: 2
