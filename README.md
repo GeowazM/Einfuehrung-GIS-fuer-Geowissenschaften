@@ -1,4 +1,4 @@
-# Einfuehrung GIS für Geowissenschaften
+# WebGIS Übungen
 
 [![Documentation Status](https://readthedocs.org/projects/geo-python-site/badge/?version=latest)](https://geo-python-site.readthedocs.io/en/latest/?badge=latest)
 

@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "GIS für Geowissenschaften"
+project = "WebGIS Übungen"
 copyright = "2025"
 # author = 'David Whipp, Henrikki Tenkanen, Vuokko Heikinheimo, Håvard Aagesen'
 author = "Mario Blersch"
@@ -41,7 +41,7 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.githubpages",
     "sphinx.ext.todo",
-    "sphinxcontrib.googleanalytics",
+    #"sphinxcontrib.googleanalytics",
     "sphinxcontrib.youtube",
     "IPython.sphinxext.ipython_console_highlighting",
     "IPython.sphinxext.ipython_directive",
@@ -50,8 +50,8 @@ extensions = [
 ]
 
 # Google Analytics ID to enable tracking of site traffic
-googleanalytics_id = "UA-105019106-1"
-googleanalytics_enabled = True
+#googleanalytics_id = "UA-105019106-1"
+#googleanalytics_enabled = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -104,11 +104,11 @@ pygments_style = "sphinx"
 
 html_theme = "sphinx_book_theme"
 html_logo = "_static/logo_trans.png"
-html_title = "Einführung GIS"
+html_title = "WebGIS"
 
 html_theme_options = {
     # "external_links": [],
-    "repository_url": "https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften-2025/",
+    "repository_url": "https://github.com/GeowazM/webgis-uebungen/",
     "repository_branch": "master",
     "path_to_docs": "source/",
     "use_edit_page_button": True,
@@ -200,7 +200,7 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [(master_doc, "GIS-Geowissenschaften", "Einfuehrung-GIS-fur-Geowissenschaften-2025 Documentation", [author], 1)]
+man_pages = [(master_doc, "WebGIS", "WebGIS Übungen Documentation", [author], 1)]
 
 # Allow errors
 execution_allow_errors = True

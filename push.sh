@@ -2,7 +2,7 @@
 # Push HTML files to gh-pages automatically.
 
 # Fill this out with the correct org/repo
-ORG=geo-python
+ORG=GeowazM/webgis-uebungen
 REPO=site
 # This probably should match an email for one of your users.
 EMAIL=mailto:mario@uni-tuebingen.de
