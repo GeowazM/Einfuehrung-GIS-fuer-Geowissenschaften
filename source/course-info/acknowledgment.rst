@@ -1,7 +1,7 @@
 🙏 Acknowledgment 
 ===================
 
-This courcse was developed by Mario Blersch for the course "Einführung in GIS für geowissenschaftliche Fachrichtungen". 
+This courcse was developed by Mario Blersch for the course "Einführung in GIS für geowissenschaftliche Anwendungen". 
 
 .. warning::
 
