@@ -142,7 +142,7 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     gis-info/koordinatensysteme
     gis-info/hinweise
     gis-info/geodatenmanagment
-    gis-info/geodatenbeschaffung
+    gis-info/geodatenbeschaffung_v2
     gis-info/nutzeroberflaeche
     gis-info/hintergrundkarten
     gis-info/attributtabelle
