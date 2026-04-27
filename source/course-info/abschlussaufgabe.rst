@@ -17,7 +17,7 @@ Zur Verfügung stehende Materialien:
 -----------------------------------
 
 -  Nutzt das Wiki, hier findet ihr auch eine `Übersicht über Geodatenquellen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/geodatenbeschaffung.html>`__
--  Hier eine `Vorlage <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/course-info/pdf/vorlage.pdf>`__
+-  Hier eine `Vorlage <https://drive.google.com/file/d/1eCn0mzmMFWv_B4P-_iRVcXheVRR28V9Y/view?usp=sharing>`__
    wie der schriftliche Teil des Abschlussprojekts aussehen kann. (Achtung: Diese Vorlage ist nicht vollständig und dient nur der Orientierung.)
 
 Abzugeben sind:
